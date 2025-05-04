@@ -1,0 +1,1046 @@
+,Age,Gender,Major,Distance(km),Transportation_mode,Traffic,Commute_time
+0,25,Male,Computer Science,11.0,Bus,High,200.0
+1,25,Male,Computer Science,2.0,Walk,Low,20.0
+2,25,Male,Computer Science,4.0,Bus,Medium,120.0
+3,24,Female,Computer Science,4.3,Bus,High,120.0
+4,25,Male,Computer Science,6.0,Bus,Medium,65.0
+5,25,Male,Computer Science,9.0,Bus,Medium,90.0
+6,25,Male,Computer Science,4.0,Bus,High,100.0
+7,25,Male,Computer Science,16.0,Bus,High,220.0
+8,25,Male,Computer Science,6.0,Bus,High,1.0
+9,24,Male,Computer Science,2.0,Rickshaw,Medium,35.0
+10,25,Male,Computer Science,5.0,Bus,Medium,60.0
+11,25,Male,Computer Science,10.0,Car,High,75.0
+12,25,Male,Computer Science,3.0,Bus,Medium,40.0
+13,25,Male,Engineering,6.0,Bike,High,90.0
+14,27,Male,Computer Science,15.0,Bus,Medium,180.0
+15,23,Male,Computer Science,11.0,Car,High,90.0
+16,25,Male,Computer Science,7.0,Bus,High,200.0
+17,26,Male,Computer Science,8.5,Bus,Medium,150.0
+18,26,Male,Computer Science,5.0,Bus,High,4.0
+19,23,Male,Computer Science,5.0,Bus,Medium,60.0
+20,25,Male,Computer Science,6.0,Bus,High,110.0
+21,24,Female,Computer Science,3.0,Walk,Medium,25.0
+22,25,Male,Computer Science,4.0,Bus,Low,80.0
+23,25,Male,Computer Science,12.0,Bus,Medium,150.0
+24,25,Male,Computer Science,5.5,Bike,High,100.0
+25,26,Male,Computer Science,9.0,Car,Medium,120.0
+26,27,Male,Engineering,7.0,Bus,Medium,180.0
+27,24,Male,Computer Science,3.5,Rickshaw,Medium,45.0
+28,25,Male,Computer Science,10.5,Car,High,95.0
+29,23,Female,Computer Science,8.0,Bus,Medium,130.0
+31,20,Female,Engineering,4.0,Bus,High,60.0
+32,21,Female,Computer Science,10.2,Car,Medium,102.0
+33,30,Male,Business Administration,7.8,Bus,Medium,93.6
+34,19,Male,Engineering,12.9,Car,Low,90.3
+35,26,Female,Engineering,11.6,Bus,Medium,139.2
+36,24,Male,Business Administration,7.6,Bus,Low,53.2
+37,18,Female,Computer Science,9.2,Car,Medium,92.0
+38,18,Female,Engineering,7.9,Car,High,110.6
+39,20,Female,Engineering,9.8,Bus,Medium,117.6
+40,28,Female,Computer Science,4.9,Bus,Medium,58.8
+41,26,Male,Engineering,11.7,Car,Low,81.9
+42,29,Female,Computer Science,0.6,Walk,Low,6.0
+43,19,Female,Business Administration,4.9,Car,Low,34.3
+44,22,Male,Computer Science,6.3,Car,Low,44.1
+45,27,Female,Computer Science,6.3,Bus,Medium,75.6
+46,23,Male,Business Administration,9.7,Bus,Low,77.6
+47,28,Male,Engineering,2.6,Bus,Medium,31.2
+48,22,Male,Engineering,5.0,Car,High,70.0
+49,25,Female,Computer Science,3.4,Car,Low,23.8
+50,29,Female,Engineering,9.2,Car,Medium,92.0
+51,21,Female,Computer Science,1.4,Walk,Low,14.0
+52,26,Male,Computer Science,6.0,Bus,Medium,72.0
+53,27,Female,Engineering,8.4,Car,High,117.6
+54,25,Female,Engineering,10.1,Bus,Low,80.8
+55,28,Male,Computer Science,1.6,Walk,Low,16.0
+56,29,Male,Computer Science,6.9,Car,High,96.6
+57,28,Female,Computer Science,13.0,Bus,High,195.0
+58,28,Female,Business Administration,10.8,Bus,Medium,129.6
+59,27,Male,Computer Science,7.6,Bus,Medium,91.2
+60,28,Male,Engineering,2.8,Car,Low,22.4
+61,19,Female,Engineering,1.8,Rickshaw,Medium,27.0
+62,19,Female,Business Administration,0.6,Walk,Low,6.0
+63,26,Female,Engineering,4.8,Bus,High,72.0
+64,28,Male,Business Administration,13.1,Bus,Low,104.8
+65,21,Female,Engineering,5.8,Bus,Low,46.4
+66,18,Male,Computer Science,10.6,Car,Medium,106.0
+67,24,Male,Business Administration,11.5,Car,High,161.0
+68,24,Male,Computer Science,1.7,Rickshaw,Low,20.4
+69,20,Female,Engineering,5.1,Bus,Medium,51.0
+70,23,Male,Engineering,5.0,Bus,Low,35.0
+72,21,Male,Business Administration,1.2,Rickshaw,High,21.6
+73,27,Male,Business Administration,10.9,Bus,Low,76.3
+74,25,Female,Engineering,10.2,Bus,Low,71.4
+75,26,Male,Business Administration,3.3,Bus,Low,23.1
+76,25,Male,Business Administration,5.3,Bus,Low,42.4
+77,22,Male,Business Administration,7.7,Car,High,107.8
+79,24,Female,Engineering,13.2,Car,High,184.8
+80,27,Male,Business Administration,14.9,Bus,Medium,178.8
+81,24,Male,Computer Science,10.5,Car,Low,73.5
+82,20,Male,Computer Science,1.1,Rickshaw,Medium,16.5
+83,23,Female,Engineering,11.0,Car,Low,77.0
+84,18,Male,Engineering,1.3,Walk,Low,13.0
+85,27,Male,Business Administration,1.5,Rickshaw,High,27.0
+86,25,Female,Business Administration,2.3,Bus,High,34.5
+87,29,Male,Computer Science,6.5,Car,Medium,65.0
+88,20,Male,Engineering,8.3,Bus,Medium,99.6
+90,27,Male,Computer Science,10.6,Car,Medium,106.0
+91,21,Female,Engineering,10.0,Car,Medium,100.0
+92,28,Male,Engineering,1.4,Walk,Low,14.0
+93,18,Male,Business Administration,1.8,Walk,Low,18.0
+94,20,Female,Computer Science,4.3,Bus,High,64.5
+95,27,Male,Business Administration,5.0,Bus,Low,35.0
+96,26,Female,Engineering,6.8,Bus,High,95.2
+97,18,Male,Computer Science,11.9,Bus,Low,95.2
+98,24,Male,Engineering,11.8,Car,High,165.2
+100,29,Female,Computer Science,13.0,Bus,High,195.0
+101,19,Female,Engineering,8.5,Car,High,119.0
+102,21,Female,Computer Science,12.5,Bus,Medium,150.0
+103,22,Female,Engineering,10.7,Car,Medium,107.0
+104,30,Male,Engineering,14.1,Bus,Medium,169.2
+105,28,Female,Engineering,4.6,Bus,High,69.0
+107,20,Male,Computer Science,8.4,Bus,Low,67.2
+108,21,Male,Computer Science,5.6,Car,High,78.4
+109,30,Female,Computer Science,6.0,Bus,Medium,72.0
+110,22,Male,Engineering,14.7,Car,High,205.8
+111,23,Female,Computer Science,4.1,Bus,High,61.5
+112,29,Male,Engineering,5.7,Car,Medium,57.0
+113,26,Female,Business Administration,4.3,Car,Low,30.1
+114,23,Female,Computer Science,14.1,Bus,Low,112.8
+115,29,Male,Engineering,10.4,Car,High,145.6
+117,23,Female,Computer Science,2.2,Car,High,30.8
+118,22,Female,Computer Science,9.4,Car,Medium,94.0
+119,21,Male,Engineering,9.8,Bus,Medium,117.6
+120,27,Male,Engineering,5.5,Bus,Medium,66.0
+121,19,Male,Business Administration,7.2,Bus,Medium,86.4
+122,25,Female,Computer Science,7.7,Bus,Medium,77.0
+123,29,Female,Engineering,3.6,Bus,Low,25.2
+124,22,Male,Engineering,13.8,Bus,Medium,138.0
+125,26,Male,Engineering,14.5,Bus,Low,116.0
+126,20,Female,Engineering,1.5,Rickshaw,Low,18.0
+127,23,Female,Engineering,7.0,Car,Low,49.0
+128,18,Female,Business Administration,0.5,Rickshaw,High,9.0
+129,25,Male,Computer Science,11.8,Car,High,165.2
+130,19,Female,Engineering,7.6,Car,Low,53.2
+131,18,Female,Engineering,10.6,Car,High,148.4
+132,25,Male,Engineering,14.8,Bus,High,222.0
+133,18,Male,Computer Science,7.5,Car,Low,52.5
+134,30,Female,Business Administration,6.5,Car,Medium,65.0
+135,18,Female,Engineering,11.1,Bus,High,166.5
+136,23,Male,Business Administration,7.5,Car,Low,52.5
+137,24,Female,Business Administration,4.0,Car,Low,28.0
+138,25,Male,Engineering,8.0,Bus,Low,64.0
+139,28,Female,Business Administration,10.3,Car,High,144.2
+140,22,Female,Engineering,8.7,Car,Medium,87.0
+141,18,Male,Engineering,10.5,Bus,High,157.5
+142,23,Female,Engineering,11.3,Bus,High,169.5
+143,29,Male,Engineering,13.4,Car,Medium,134.0
+145,22,Female,Engineering,7.8,Bus,Low,62.4
+146,19,Female,Engineering,14.8,Bus,Medium,177.6
+147,29,Male,Engineering,11.3,Car,High,158.2
+148,21,Male,Business Administration,6.9,Car,Low,48.3
+149,23,Male,Computer Science,1.0,Bike,Low,20.0
+150,23,Female,Computer Science,0.2,Walk,Low,720.0
+151,22,Male,Computer Science,0.5,Walk,Low,5.0
+152,20,Male,Computer Science,30.0,Bus,Low,120.0
+153,23,Female,Computer Science,1.0,Walk,Low,30.0
+154,25,Male,Business Administration,12.0,Bus,High,200.0
+155,20,Male,Computer Science,20.0,Bus,High,80.0
+156,20,Male,Computer Science,22.0,Bus,Medium,1.0
+158,25,Male,Engineering,10.0,Bus,Medium,80.0
+159,20,Male,Computer Science,25.0,Bus,Medium,480.0
+160,24,Female,Business Administration,3.0,Rickshaw,Low,40.0
+161,25,Male,Computer Science,0.25,Walk,Low,150.0
+164,28,Male,Computer Science,2.0,Bus,High,16.0
+165,28,Female,Computer Science,22.0,Bus,High,240.0
+166,22,Male,Computer Science,33.0,Bus,Medium,120.0
+167,24,Male,Computer Science,0.5,Walk,Low,10.0
+168,23,Male,Computer Science,0.5,Walk,Low,4.0
+169,26,Male,Computer Science,2.0,Rickshaw,Medium,16.0
+170,24,Male,Computer Science,35.0,Walk,Low,10.0
+171,24,Male,Computer Science,1.0,Walk,Low,20.0
+172,21,Male,Computer Science,0.5,Walk,Low,6.0
+173,27,Male,Computer Science,0.2,Walk,Low,10.0
+174,28,Female,Medicine,2.0,Rickshaw,Medium,20.0
+175,23,Male,Computer Science,0.2,Walk,Low,20.0
+176,23,Female,Computer Science,25.3,Bus,Low,630.0
+177,36,Male,Engineering,50.0,Car,Low,120.0
+178,26,Male,Computer Science,2.0,Walk,Low,60.0
+179,26,Male,Computer Science,8.0,Bus,Medium,3.0
+180,32,Male,Engineering,0.5,Walk,Low,60.0
+181,26,Female,Computer Science,7.0,Bus,Medium,150.0
+182,45,Other,Engineering,29.8,Bus,High,129.0
+183,22,Other,Computer Science,31.3,Bike,Medium,103.0
+184,53,Other,Engineering,29.9,Bike,Medium,120.0
+185,21,Other,Business Administration,5.6,Bus,Medium,21.0
+186,27,Other,Biology,12.4,Walk,High,58.0
+187,38,Other,Business Administration,16.9,Bike,High,80.0
+188,35,Female,Business Administration,8.8,Bus,High,49.0
+189,55,Male,Computer Science,23.2,Bus,Low,62.0
+190,23,Male,Engineering,49.9,Walk,High,217.0
+191,29,Male,Business Administration,19.0,Bike,Medium,67.0
+192,30,Other,Biology,42.9,Car,High,198.0
+193,50,Female,Biology,2.1,Car,Medium,16.8
+194,20,Other,Business Administration,40.5,Car,Medium,128.0
+195,21,Male,Business Administration,9.5,Walk,High,44.0
+196,47,Female,Engineering,41.1,Bus,Medium,139.0
+197,35,Female,Computer Science,5.7,Walk,Low,16.0
+198,36,Female,Business Administration,40.0,Bus,Low,117.0
+199,32,Female,Biology,36.4,Bike,Low,100.0
+200,50,Other,Computer Science,22.0,Car,Medium,80.0
+201,41,Other,Biology,40.2,Walk,High,193.0
+202,24,Female,Computer Science,4.1,Walk,High,22.0
+203,20,Male,Biology,11.2,Bike,Medium,37.0
+204,54,Male,Computer Science,28.5,Car,High,170.0
+205,23,Other,Engineering,19.7,Bus,High,87.0
+206,60,Other,Computer Science,18.0,Walk,Medium,67.0
+207,56,Male,Biology,1.5,Car,Low,12.0
+208,57,Male,Business Administration,36.9,Walk,Low,99.0
+209,18,Female,Engineering,4.8,Bus,Low,12.0
+210,28,Female,Biology,39.9,Bike,Medium,125.0
+211,54,Female,Computer Science,47.6,Car,Low,96.0
+212,20,Other,Business Administration,3.7,Car,High,19.0
+213,19,Other,Biology,20.6,Walk,Medium,72.0
+214,32,Female,Computer Science,6.4,Car,High,33.0
+215,58,Other,Engineering,33.4,Car,High,200.0
+216,33,Male,Biology,9.8,Car,Medium,39.0
+217,56,Female,Computer Science,48.7,Bike,High,288.0
+218,35,Female,Computer Science,5.3,Walk,Medium,16.0
+219,37,Other,Biology,11.0,Bike,Medium,42.0
+220,22,Male,Business Administration,39.6,Bus,Medium,147.0
+221,35,Male,Business Administration,5.4,Bus,Medium,20.0
+222,47,Male,Computer Science,40.9,Bike,Low,102.0
+223,58,Male,Computer Science,43.3,Bus,Medium,142.0
+224,60,Male,Business Administration,49.4,Walk,High,237.0
+225,24,Other,Biology,49.6,Bike,Medium,159.0
+226,29,Female,Engineering,27.7,Bike,Low,82.0
+227,55,Male,Business Administration,26.0,Walk,Low,52.0
+228,34,Other,Biology,19.6,Bus,High,82.0
+229,29,Female,Engineering,7.4,Car,Medium,25.0
+230,40,Other,Biology,38.5,Car,Low,88.0
+231,21,Female,Engineering,14.7,Bus,High,86.0
+232,18,Male,Business Administration,45.0,Bus,Low,127.0
+233,27,Female,Business Administration,25.1,Bike,High,128.0
+234,57,Male,Computer Science,25.0,Bus,High,112.0
+235,39,Male,Business Administration,30.6,Walk,Medium,98.0
+236,39,Male,Computer Science,34.8,Bike,High,194.0
+237,44,Female,Biology,47.2,Car,Low,136.0
+238,19,Other,Biology,18.4,Bus,Medium,61.0
+239,30,Other,Engineering,10.6,Walk,Medium,34.0
+240,23,Male,Computer Science,15.6,Car,Medium,60.0
+241,24,Male,Engineering,5.6,Bike,High,33.0
+242,30,Other,Business Administration,6.0,Car,Medium,22.0
+243,23,Other,Business Administration,35.6,Walk,Low,74.0
+244,48,Other,Computer Science,40.1,Walk,High,220.0
+245,38,Male,Engineering,46.2,Bike,High,223.0
+246,27,Female,Computer Science,46.9,Bike,High,273.0
+247,24,Other,Engineering,8.4,Car,High,42.0
+248,25,Female,Computer Science,4.3,Bike,High,20.0
+249,53,Female,Biology,5.4,Walk,Medium,18.0
+250,43,Female,Computer Science,5.4,Walk,Low,15.0
+251,33,Other,Biology,8.0,Bus,Low,20.0
+252,21,Female,Business Administration,1.3,Bike,High,10.4
+253,38,Female,Computer Science,31.6,Bike,Medium,105.0
+254,58,Other,Engineering,41.7,Car,Low,111.0
+255,18,Male,Computer Science,5.8,Walk,High,30.0
+256,26,Male,Computer Science,39.8,Bus,Medium,157.0
+257,49,Female,Engineering,23.5,Walk,Low,65.0
+258,50,Other,Business Administration,34.1,Walk,High,200.0
+259,50,Other,Biology,39.7,Walk,High,204.0
+260,30,Female,Engineering,47.4,Walk,Low,118.0
+261,20,Female,Business Administration,32.1,Walk,Low,87.0
+262,56,Other,Computer Science,5.0,Bus,Medium,18.0
+263,37,Male,Business Administration,48.7,Bike,Medium,193.0
+264,26,Male,Computer Science,10.0,Bus,Medium,119.0
+265,25,Male,Computer Science,4.0,Bus,Medium,173.0
+266,26,Male,Computer Science,9.0,Bus,Low,76.0
+267,25,Female,Engineering,4.0,Bus,Low,126.0
+268,25,Female,Engineering,8.0,Bus,High,197.0
+269,25,Male,Computer Science,9.0,Bus,Medium,197.0
+270,26,Male,Engineering,8.0,Bus,Medium,127.0
+271,25,Male,Engineering,6.0,Bus,Low,182.0
+272,26,Female,Engineering,10.0,Bus,Medium,79.0
+273,25,Female,Computer Science,8.0,Bus,Medium,65.0
+274,26,Male,Engineering,9.0,Bus,High,182.0
+275,26,Female,Engineering,11.0,Bus,Low,76.0
+276,26,Female,Computer Science,6.0,Bus,High,182.0
+277,26,Male,Engineering,9.0,Bus,High,243.0
+278,25,Male,Computer Science,11.0,Bus,Low,218.0
+279,25,Female,Computer Science,8.0,Bus,Medium,76.0
+280,26,Male,Computer Science,4.0,Bus,Low,98.0
+281,25,Male,Engineering,4.0,Bus,Medium,169.0
+282,26,Male,Engineering,6.0,Bus,Low,182.0
+283,25,Female,Computer Science,4.0,Bus,Medium,73.0
+284,25,Male,Computer Science,5.0,Bus,High,129.0
+285,26,Female,Computer Science,6.0,Bus,Low,134.0
+286,25,Female,Engineering,9.0,Bus,Medium,198.0
+287,26,Male,Computer Science,4.0,Bus,Low,113.0
+288,26,Female,Engineering,4.0,Bus,High,111.0
+289,25,Female,Engineering,6.0,Bus,High,228.0
+290,26,Male,Engineering,11.0,Bus,Low,126.0
+291,25,Male,Engineering,8.0,Bus,High,105.0
+292,26,Male,Computer Science,4.0,Bus,High,182.0
+293,26,Female,Engineering,6.0,Bus,Medium,76.0
+294,25,Male,Computer Science,4.0,Bus,Low,66.0
+295,26,Male,Engineering,5.0,Bus,High,197.0
+296,26,Female,Engineering,11.0,Bus,Low,86.0
+297,25,Male,Computer Science,7.0,Bus,High,136.0
+298,26,Male,Engineering,4.0,Bus,Low,173.0
+299,25,Female,Computer Science,9.0,Bus,Low,77.0
+300,25,Male,Computer Science,6.0,Bus,Low,80.0
+301,26,Male,Engineering,6.0,Bus,High,80.0
+302,25,Male,Computer Science,11.0,Bus,Low,111.0
+303,25,Female,Engineering,7.0,Bus,High,210.0
+304,26,Male,Engineering,5.0,Bus,High,76.0
+305,25,Female,Engineering,7.0,Bus,Low,201.0
+306,25,Female,Computer Science,6.0,Bus,High,148.0
+307,25,Male,Computer Science,9.0,Bus,Low,240.0
+308,25,Female,Engineering,5.0,Bus,Medium,67.0
+309,26,Female,Computer Science,6.0,Bus,High,153.0
+310,26,Female,Engineering,7.0,Bus,High,107.0
+311,26,Female,Engineering,7.0,Bus,Low,76.0
+312,25,Male,Engineering,10.0,Bus,Low,111.0
+313,26,Female,Engineering,9.0,Bus,High,87.0
+314,26,Male,Engineering,8.0,Bus,High,75.0
+315,25,Male,Computer Science,9.0,Bus,High,177.0
+316,26,Female,Engineering,6.0,Bus,Medium,153.0
+317,26,Female,Engineering,4.0,Bus,Low,214.0
+318,25,Female,Engineering,9.0,Bus,Low,175.0
+319,26,Female,Computer Science,6.0,Bus,Low,116.0
+320,25,Male,Computer Science,6.0,Bus,Low,77.0
+321,25,Female,Computer Science,4.0,Bus,High,65.0
+322,25,Female,Engineering,6.0,Bus,High,135.0
+323,25,Male,Engineering,7.0,Bus,High,129.0
+324,26,Female,Engineering,7.0,Bus,High,145.0
+325,25,Male,Computer Science,8.0,Bus,Medium,126.0
+326,26,Female,Engineering,8.0,Bus,High,166.0
+327,25,Female,Computer Science,8.0,Bus,High,145.0
+328,26,Female,Computer Science,10.0,Bus,Low,72.0
+329,25,Female,Computer Science,4.0,Bus,Medium,76.0
+330,26,Male,Engineering,5.0,Bus,Low,243.0
+331,25,Male,Engineering,10.0,Bus,Low,107.0
+332,25,Female,Engineering,4.0,Bus,Low,135.0
+333,25,Female,Computer Science,7.0,Bus,High,204.0
+334,26,Male,Computer Science,10.0,Bus,Medium,201.0
+335,25,Male,Engineering,5.0,Bus,High,182.0
+336,26,Female,Engineering,10.0,Bus,Medium,227.0
+337,26,Female,Computer Science,8.0,Bus,Low,243.0
+338,26,Female,Engineering,10.0,Bus,Medium,173.0
+339,26,Male,Engineering,8.0,Bus,Low,145.0
+340,26,Female,Computer Science,9.0,Bus,Low,76.0
+341,25,Female,Engineering,8.0,Bus,High,184.0
+342,26,Male,Engineering,10.0,Bus,Medium,188.0
+343,26,Male,Computer Science,6.0,Bus,Low,131.0
+344,26,Male,Computer Science,8.0,Bus,High,98.0
+345,26,Male,Engineering,11.0,Bus,Medium,76.0
+346,26,Male,Computer Science,6.0,Bus,High,196.0
+347,25,Male,Engineering,10.0,Bus,Low,67.0
+348,26,Female,Computer Science,9.0,Bus,High,227.0
+349,25,Female,Engineering,10.0,Bus,High,178.0
+351,26,Female,Computer Science,8.0,Bus,High,145.0
+352,26,Female,Computer Science,4.0,Bus,Low,131.0
+353,25,Female,Computer Science,7.0,Bus,Medium,77.0
+354,25,Female,Engineering,4.0,Bus,Medium,113.0
+355,26,Male,Computer Science,10.0,Bus,Low,131.0
+356,25,Female,Computer Science,10.0,Bus,Low,67.0
+357,25,Female,Computer Science,6.0,Bus,High,131.0
+358,25,Male,Computer Science,11.0,Bus,High,182.0
+359,26,Female,Computer Science,10.0,Bus,Medium,243.0
+360,26,Female,Engineering,8.0,Bus,High,131.0
+361,25,Male,Engineering,4.0,Bus,High,148.0
+362,26,Female,Engineering,9.0,Bus,Medium,72.0
+363,26,Male,Computer Science,10.0,Bus,Low,153.0
+364,24,Female,Agriculture,0.3,Walk,Low,18.0
+365,21,Male,Arts,11.0,Bus,Medium,60.0
+366,25,Male,Computer Science,1.0,Walk,Low,30.0
+367,25,Male,Business Administration,23.0,Bus,Low,120.0
+368,25,Male,Engineering,1.0,Walk,Low,12.0
+369,20,Female,Arts,5.0,Rickshaw,Medium,18.0
+370,25,Female,Computer Science,0.5,Walk,Low,4.0
+371,26,Male,Engineering,3.0,Walk,Medium,20.0
+372,25,Male,Education,3.0,Rickshaw,Medium,60.0
+373,26,Male,Education,2.0,Walk,Low,60.0
+374,24,Male,Arts,25.0,Bus,Medium,420.0
+375,21,Male,Computer Science,2.0,Walk,Low,120.0
+376,23,Male,Computer Science,0.4,Walk,Low,120.0
+377,22,Male,Computer Science,1.0,Rickshaw,Low,18.0
+378,22,Male,Computer Science,1.0,Walk,Low,18.0
+379,27,Male,Computer Science,1.0,Walk,Medium,18.0
+380,22,Male,Computer Science,1.0,Cycle,Low,210.0
+381,19,Male,Computer Science,1.0,Walk,Low,30.0
+382,21,Male,Computer Science,1.0,Walk,Low,24.0
+383,22,Male,Computer Science,1.5,Cycle,Low,60.0
+384,23,Male,Computer Science,1.0,Cycle,Low,12.0
+385,22,Male,Computer Science,2.0,Walk,Low,30.0
+386,22,Male,Computer Science,2.0,Walk,Low,24.0
+387,21,Male,Computer Science,0.3,Walk,Low,30.0
+388,22,Male,Computer Science,1.0,Walk,Low,30.0
+389,22,Male,Computer Science,2.0,Walk,Low,90.0
+390,23,Male,Computer Science,0.5,Walk,Low,24.0
+391,21,Female,Computer Science,0.5,Walk,Low,30.0
+392,23,Male,Computer Science,0.25,Walk,Low,60.0
+393,23,Male,Computer Science,2.0,Rickshaw,Low,60.0
+394,21,Female,Computer Science,1.4,Walk,Medium,27.0
+395,23,Male,Computer Science,1.0,Walk,Low,120.0
+396,24,Male,Computer Science,2.0,Walk,Low,30.0
+397,21,Male,Computer Science,1.0,Rickshaw,Low,60.0
+398,23,Female,Computer Science,3.0,Rickshaw,Low,20.0
+399,22,Female,Computer Science,0.07,Walk,Low,15.0
+400,23,Male,Computer Science,4.0,Walk,Low,60.0
+401,23,Male,Computer Science,1.0,Rickshaw,Low,30.0
+402,22,Male,Computer Science,1.0,Walk,Low,19.8
+403,22,Male,Computer Science,3.0,Walk,Low,60.0
+404,22,Male,Computer Science,17.0,Bus,Low,150.0
+405,22,Male,Computer Science,1.0,Walk,Low,12.0
+406,23,Male,Computer Science,1.0,Walk,Low,18.0
+407,26,Male,Computer Science,5.0,Bike,Medium,90.0
+408,20,Female,Computer Science,1.0,Rickshaw,Low,15.0
+409,23,Male,Computer Science,1.0,Walk,Low,600.0
+410,21,Female,Computer Science,4.8,Rickshaw,Medium,60.0
+411,24,Male,Computer Science,0.1,Walk,Low,15.0
+412,24,Male,Computer Science,1.0,Walk,Low,60.0
+413,24,Male,Computer Science,1.0,Walk,Medium,90.0
+415,23,Male,Computer Science,7.0,Bus,Medium,18.0
+416,25,Male,Computer Science,2.0,Rickshaw,Low,420.0
+417,22,Female,Computer Science,2.5,Bus,Low,60.0
+418,22,Male,Computer Science,1.0,Walk,Low,15.0
+419,22,Male,Computer Science,0.5,Walk,Low,60.0
+420,23,Male,Computer Science,0.8,Cycle,Low,30.0
+421,25,Female,Computer Science,1.5,Walk,Low,300.0
+422,24,Male,Engineering,5.0,Bike,Medium,180.0
+423,21,Male,Engineering,25.0,Bus,High,270.0
+424,24,Male,Computer Science,6.0,Bus,Low,60.0
+425,23,Male,Computer Science,2.0,Walk,Medium,60.0
+426,24,Male,Computer Science,1.5,Walk,Medium,60.0
+427,22,Male,Engineering,1.0,Walk,Low,8.0
+428,21,Female,Other,3.5,Rickshaw,Low,7.5
+429,25,Female,Engineering,2.3,Bike,Low,18.4
+430,20,Female,Agriculture,13.0,Bus,Medium,120.0
+431,20,Male,Computer Science,8.0,Bus,High,90.0
+432,19,Female,Business Administration,2.8,Bus,Low,60.0
+433,21,Male,Engineering,17.0,Bus,Medium,180.0
+434,21,Male,Computer Science,1.5,Walk,Low,30.0
+435,24,Male,Computer Science,2.0,Walk,Low,120.0
+436,21,Male,Agriculture,0.5,Walk,Low,6.0
+437,21,Male,Engineering,1.1,Walk,Low,12.0
+438,21,Male,Agriculture,1.0,Walk,Low,480.0
+439,25,Male,Computer Science,2.0,Walk,High,18.0
+440,22,Female,Computer Science,20.0,Bus,Medium,210.0
+441,24,Male,Computer Science,0.7,Walk,Low,15.0
+442,26,Male,Computer Science,1.0,Walk,Low,40.0
+443,25,Male,Computer Science,0.7,Walk,Low,30.0
+444,26,Male,Computer Science,1.0,Walk,Low,30.0
+445,21,Female,Agriculture,5.0,Bus,High,180.0
+446,25,Female,Engineering,1.0,Rickshaw,Low,12.0
+447,27,Male,Computer Science,6.0,Bus,High,27.0
+448,20,Male,Engineering,6.0,Bus,Medium,60.0
+449,21,Female,Agriculture,0.2,Walk,Low,60.0
+450,19,Female,Business Administration,6.8,Bus,Medium,30.0
+451,23,Male,Engineering,0.4,Walk,Low,300.0
+452,26,Male,Computer Science,3.0,Bus,Medium,90.0
+453,20,Male,Computer Science,1.4,Walk,Low,30.0
+455,21,Male,Computer Science,1.0,Walk,Medium,60.0
+456,21,Male,Computer Science,3.0,Bus,Low,540.0
+457,20,Female,Computer Science,1.0,Cycle,Low,18.0
+458,20,Male,Computer Science,1.0,Walk,Low,60.0
+459,21,Female,Agriculture,1.2,Walk,Low,150.0
+461,21,Male,Computer Science,1.2,Walk,Medium,30.0
+462,22,Male,Computer Science,0.5,Walk,Low,20.0
+463,21,Male,Computer Science,2.5,Bus,Low,360.0
+464,22,Male,Engineering,18.0,Bike,High,240.0
+465,23,Male,Computer Science,0.5,Walk,Low,30.0
+466,28,Male,Computer Science,0.0,Walk,Low,6.0
+467,20,Female,Agriculture,2.0,Walk,Medium,120.0
+468,22,Female,Computer Science,5.0,Bus,High,420.0
+469,20,Male,Agriculture,1.0,Walk,Low,78.0
+470,22,Male,Engineering,0.5,Walk,Medium,60.0
+471,25,Male,Computer Science,6.0,Bus,Medium,120.0
+472,21,Male,Agriculture,15.0,Bus,Medium,120.0
+473,34,Male,Engineering,3.0,Bike,Medium,480.0
+474,26,Male,Engineering,1.0,Walk,Low,600.0
+475,19,Female,Computer Science,2.0,Rickshaw,Low,60.0
+476,22,Female,Agriculture,30.0,Bus,High,240.0
+477,23,Male,Engineering,10.0,Bus,High,780.0
+478,23,Female,Agriculture,5.0,Bus,Medium,120.0
+479,19,Male,Computer Science,2.0,Walk,Low,30.0
+480,20,Male,Engineering,2.0,Bus,High,36.0
+481,23,Male,Computer Science,2.0,Bus,High,120.0
+482,23,Male,Engineering,2.0,Bus,Medium,30.0
+483,20,Female,Computer Science,3.0,Bus,Low,480.0
+484,21,Male,Computer Science,3.0,Walk,Low,120.0
+485,25,Male,Computer Science,0.3,Walk,Low,12.0
+488,21,Male,Computer Science,2.5,Cycle,Low,24.0
+489,21,Male,Engineering,4.5,Bus,Medium,30.0
+490,20,Male,Computer Science,2.0,Rickshaw,Low,30.0
+491,21,Male,Computer Science,1.3,Walk,Low,72.0
+492,20,Male,Computer Science,3.0,Walk,Medium,30.0
+493,22,Male,Computer Science,2.0,Walk,Low,60.0
+494,26,Male,Computer Science,3.0,Car,Medium,180.0
+495,24,Male,Engineering,3.0,Walk,Low,120.0
+496,22,Male,Computer Science,5.0,Rickshaw,Medium,60.0
+497,21,Male,Computer Science,1.5,Walk,Low,12.0
+498,26,Male,Computer Science,1.0,Walk,Low,90.0
+499,25,Male,Computer Science,2.0,Rickshaw,Low,16.0
+500,25,Male,Computer Science,7.0,Bus,High,120.0
+502,27,Male,Computer Science,7.3,Walk,Medium,150.0
+503,24,Female,Engineering,8.0,Bike,High,55.0
+504,26,Male,Computer Science,17.0,Car,Medium,191.0
+505,27,Female,Computer Science,6.0,Car,High,40.0
+506,29,Male,Computer Science,5.0,Rickshaw,Low,91.0
+507,23,Male,Computer Science,14.9,Bus,Medium,146.0
+508,21,Female,Computer Science,14.0,Bus,High,206.0
+509,20,Female,Computer Science,8.1,Bus,Medium,176.0
+510,26,Female,Computer Science,12.8,Bus,High,233.0
+511,21,Male,Computer Science,6.6,Bus,Medium,129.0
+512,28,Female,Computer Science,16.0,Bus,High,223.0
+513,23,Male,Computer Science,10.0,Bike,Medium,123.0
+514,24,Male,Computer Science,13.0,Bus,Medium,136.0
+515,20,Female,Computer Science,5.8,Bus,High,133.0
+516,23,Female,Computer Science,19.0,Car,Medium,238.0
+517,28,Male,Computer Science,8.7,Bus,High,188.0
+518,29,Female,Computer Science,7.0,Bus,Medium,113.0
+519,22,Male,Engineering,10.0,Bus,High,182.0
+520,22,Female,Computer Science,11.0,Bus,Medium,117.0
+521,21,Female,Computer Science,14.0,Bus,Medium,167.0
+522,25,Male,Computer Science,10.0,Bus,Medium,122.0
+523,21,Male,Computer Science,8.0,Bus,High,101.0
+524,23,Female,Computer Science,12.0,Bus,Medium,131.0
+525,26,Male,Computer Science,6.0,Bus,High,127.0
+526,23,Male,Computer Science,14.0,Car,Medium,138.0
+527,21,Female,Computer Science,14.0,Bus,Medium,171.0
+528,24,Male,Computer Science,8.0,Bus,High,107.0
+529,21,Male,Computer Science,13.0,Bus,Medium,161.0
+530,29,Female,Computer Science,10.0,Bus,High,156.0
+531,24,Female,Computer Science,15.0,Bus,Medium,196.0
+532,28,Male,Computer Science,19.0,Bike,High,246.0
+533,29,Female,Computer Science,14.0,Bus,Medium,141.0
+534,26,Male,Computer Science,11.0,Bus,High,211.0
+535,26,Female,Computer Science,1.0,Walk,Low,35.0
+536,27,Male,Social Work,1.6,Walk,Medium,30.0
+537,26,Male,Urban and Regional Planning,4.0,Bike,Medium,20.0
+538,26,Female,Engineering,25.0,Bus,High,120.0
+539,26,Female,Chemistry,1.5,Rickshaw,Medium,20.0
+540,25,Male,Computer Science,3.7,Bus,Medium,44.4
+541,27,Male,Computer Science,10.3,Bus,High,154.5
+542,30,Female,Engineering,10.8,Bus,Low,86.4
+543,28,Female,Engineering,14.0,Car,Medium,140.0
+544,20,Male,Engineering,11.7,Car,Medium,117.0
+545,26,Male,Engineering,6.9,Bus,Medium,82.8
+546,22,Female,Engineering,6.9,Car,Low,48.3
+547,21,Male,Engineering,12.5,Car,Low,87.5
+548,18,Male,Engineering,4.8,Bus,Medium,57.6
+549,23,Female,Engineering,13.3,Car,Medium,133.0
+550,21,Female,Engineering,1.6,Rickshaw,High,28.8
+551,21,Female,Engineering,9.0,Bus,Low,72.0
+552,21,Female,Computer Science,6.4,Bus,Low,51.2
+553,18,Female,Engineering,3.9,Car,Low,27.3
+554,22,Male,Business Administration,7.2,Car,Low,50.4
+555,28,Female,Computer Science,6.5,Bus,Low,52.0
+556,21,Male,Engineering,5.4,Car,Low,37.8
+557,30,Female,Engineering,3.9,Bus,High,58.5
+558,25,Male,Computer Science,12.8,Bus,Medium,153.6
+559,27,Male,Engineering,7.2,Bus,Medium,86.4
+560,21,Male,Engineering,7.5,Car,Low,52.5
+561,23,Female,Computer Science,14.9,Bus,High,223.5
+562,30,Male,Engineering,14.2,Car,High,198.8
+563,30,Female,Engineering,14.5,Bus,Medium,174.0
+564,25,Male,Engineering,0.9,Rickshaw,High,16.2
+565,22,Female,Engineering,14.8,Bus,High,222.0
+566,20,Female,Engineering,10.5,Car,Low,73.5
+567,30,Male,Engineering,8.5,Bus,Low,68.0
+568,21,Male,Engineering,11.9,Bus,Medium,142.8
+569,21,Female,Computer Science,7.4,Car,Low,51.8
+570,26,Male,Computer Science,0.6,Walk,Low,6.0
+571,30,Male,Engineering,7.7,Bus,High,115.5
+572,28,Female,Business Administration,14.1,Car,High,197.4
+573,27,Male,Computer Science,12.6,Bus,Low,100.8
+574,27,Female,Business Administration,7.8,Bus,Low,62.4
+575,26,Female,Computer Science,14.3,Car,Medium,143.0
+576,29,Female,Computer Science,14.1,Car,Medium,141.0
+577,30,Male,Engineering,14.5,Bus,Low,116.0
+578,19,Female,Engineering,5.8,Bus,High,87.0
+579,27,Female,Computer Science,0.6,Rickshaw,High,10.8
+580,24,Female,Business Administration,5.4,Bus,Low,43.2
+581,18,Female,Business Administration,8.5,Car,High,119.0
+582,29,Female,Engineering,4.7,Car,Medium,47.0
+583,20,Male,Computer Science,9.2,Car,Low,64.4
+584,28,Male,Business Administration,14.7,Car,Low,102.9
+585,18,Male,Computer Science,6.4,Car,High,89.6
+586,20,Female,Business Administration,4.4,Bus,High,66.0
+587,29,Female,Computer Science,8.1,Bus,Low,64.8
+588,24,Female,Engineering,6.1,Bus,High,91.5
+589,25,Female,Engineering,6.0,Car,High,84.0
+590,24,Female,Engineering,2.5,Bus,Low,20.0
+591,29,Female,Engineering,12.1,Car,Medium,121.0
+592,30,Female,Engineering,7.7,Car,Low,53.9
+593,25,Male,Business Administration,3.9,Bus,Medium,46.8
+594,20,Female,Business Administration,11.7,Car,Medium,117.0
+595,19,Female,Business Administration,3.2,Bus,Medium,38.4
+596,27,Female,Business Administration,5.7,Bus,Medium,68.4
+597,28,Female,Business Administration,2.3,Bus,Medium,27.6
+598,26,Male,Engineering,3.7,Bus,Low,29.6
+599,25,Male,Engineering,0.8,Rickshaw,Low,9.6
+600,29,Male,Engineering,5.8,Car,High,81.2
+601,22,Male,Engineering,4.9,Bus,High,73.5
+602,29,Female,Engineering,1.2,Walk,Low,12.0
+603,18,Male,Business Administration,11.9,Bus,Medium,142.8
+604,30,Male,Engineering,11.1,Bus,Medium,133.2
+605,20,Male,Engineering,4.1,Bus,High,61.5
+606,21,Female,Computer Science,14.1,Car,Low,98.7
+607,21,Male,Engineering,9.3,Car,Low,65.1
+608,20,Male,Engineering,7.4,Bus,Medium,88.8
+609,22,Female,Engineering,2.4,Bus,Low,19.2
+610,19,Male,Business Administration,14.0,Bus,Low,112.0
+611,26,Male,Business Administration,8.8,Bus,High,132.0
+612,26,Female,Business Administration,2.1,Car,High,29.4
+613,30,Female,Computer Science,14.3,Bus,High,214.5
+614,22,Male,Business Administration,7.0,Bus,High,105.0
+615,24,Male,Computer Science,9.5,Bus,High,142.5
+616,18,Male,Engineering,4.4,Car,Low,30.8
+617,18,Male,Engineering,4.2,Car,High,58.8
+618,23,Female,Engineering,7.2,Bus,Medium,86.4
+619,25,Female,Business Administration,3.6,Bus,Low,28.8
+620,19,Male,Engineering,13.2,Car,Low,92.4
+621,21,Male,Business Administration,8.9,Car,Low,62.3
+622,25,Male,Engineering,12.7,Car,Low,88.9
+623,28,Female,Computer Science,1.9,Walk,Low,19.0
+624,28,Male,Business Administration,6.4,Bus,Medium,76.8
+625,21,Female,Engineering,6.0,Car,High,84.0
+626,18,Female,Engineering,11.7,Bus,Medium,140.4
+627,26,Male,Computer Science,14.1,Car,Medium,141.0
+628,19,Female,Engineering,2.4,Bus,Medium,28.8
+629,27,Female,Engineering,1.8,Walk,Low,18.0
+630,23,Female,Engineering,9.1,Bus,Medium,109.2
+631,22,Female,Business Administration,5.6,Car,Medium,56.0
+632,18,Female,Business Administration,0.8,Rickshaw,High,14.4
+633,19,Male,Engineering,12.6,Car,Low,88.2
+634,30,Female,Business Administration,12.3,Bus,High,184.5
+635,18,Female,Business Administration,8.7,Bus,High,130.5
+636,26,Male,Engineering,6.8,Car,Medium,68.0
+637,19,Female,Engineering,3.1,Car,High,43.4
+638,19,Male,Business Administration,6.5,Car,Medium,65.0
+640,26,Male,Computer Science,8.7,Bus,Low,94.0
+641,24,Male,Computer Science,11.8,Car,Medium,108.0
+642,23,Male,Computer Science,3.5,Bus,High,115.0
+643,26,Male,Computer Science,9.8,Car,High,78.0
+644,27,Male,Computer Science,4.0,Car,High,93.0
+645,23,Male,Computer Science,3.4,Car,Medium,125.0
+646,26,Male,Engineering,3.4,Bus,Medium,34.0
+647,27,Male,Computer Science,5.1,Walk,High,84.0
+648,25,Male,Computer Science,8.9,Bus,High,124.0
+649,26,Male,Computer Science,7.4,Rickshaw,Medium,84.0
+650,25,Male,Computer Science,9.1,Car,High,82.0
+651,26,Male,Computer Science,6.8,Bus,Medium,73.0
+652,26,Male,Computer Science,5.8,Walk,Low,74.0
+653,25,Male,Computer Science,10.4,Bus,High,72.0
+654,22,Male,Computer Science,1.8,Rickshaw,Medium,35.0
+655,23,Male,Computer Science,11.7,Rickshaw,Medium,207.0
+656,26,Female,Computer Science,5.1,Bus,High,142.0
+657,22,Male,Computer Science,2.1,Car,Medium,40.0
+658,24,Male,Computer Science,4.0,Rickshaw,High,101.0
+659,26,Male,Computer Science,5.4,Bike,Medium,99.0
+660,24,Male,Computer Science,5.0,Bus,High,5.0
+661,28,Male,Computer Science,14.3,Bike,Medium,188.0
+662,25,Male,Computer Science,1.9,Walk,Medium,17.0
+663,25,Male,Computer Science,3.7,Bus,High,105.0
+664,23,Male,Computer Science,6.7,Bike,Medium,89.0
+665,27,Male,Computer Science,11.1,Car,Low,84.0
+666,26,Male,Computer Science,2.0,Walk,Medium,36.0
+667,24,Male,Computer Science,9.6,Bus,High,232.0
+668,27,Male,Computer Science,4.5,Walk,Medium,64.0
+669,27,Male,Computer Science,5.4,Bike,Medium,62.0
+670,23,Male,Computer Science,5.2,Bike,Low,90.0
+671,26,Male,Computer Science,10.2,Walk,High,78.0
+672,24,Male,Computer Science,3.3,Bus,Medium,110.0
+673,25,Male,Computer Science,2.2,Bike,High,23.0
+674,27,Male,Computer Science,3.3,Bus,Low,107.0
+675,23,Male,Computer Science,4.4,Walk,Medium,87.0
+676,27,Male,Computer Science,4.3,Bus,Medium,134.0
+677,22,Male,Computer Science,10.2,Car,Medium,89.0
+678,24,Male,Computer Science,4.7,Bus,Low,118.0
+679,27,Male,Computer Science,8.3,Car,Medium,88.0
+680,26,Male,Computer Science,1.8,Walk,High,24.0
+681,26,Male,Computer Science,2.0,Walk,Medium,19.0
+682,28,Male,Computer Science,7.4,Bus,Medium,139.0
+683,26,Male,Computer Science,5.4,Bike,High,82.0
+684,25,Male,Computer Science,6.7,Bike,High,102.0
+685,27,Male,Computer Science,8.4,Car,Low,234.0
+686,26,Male,Computer Science,3.8,Bus,High,85.0
+687,25,Male,Computer Science,9.3,Rickshaw,Medium,131.0
+688,26,Male,Engineering,3.0,Bus,Low,40.0
+689,23,Female,Computer Science,4.6,Bus,High,138.0
+690,26,Male,Computer Science,10.7,Car,High,200.0
+691,25,Male,Computer Science,9.5,Bike,Low,88.0
+692,26,Male,Computer Science,8.4,Walk,High,79.0
+693,23,Male,Computer Science,2.3,Walk,Low,20.0
+694,25,Male,Computer Science,3.3,Bike,Medium,130.0
+695,26,Male,Computer Science,2.3,Rickshaw,Medium,32.0
+696,25,Male,Computer Science,4.6,Walk,High,108.0
+697,25,Male,Computer Science,6.5,Bike,Medium,5.0
+698,23,Male,Computer Science,8.2,Car,High,64.0
+699,26,Male,Computer Science,9.8,Bus,High,207.0
+700,23,Male,Computer Science,7.6,Bus,High,229.0
+701,26,Male,Computer Science,9.8,Bus,High,185.0
+702,24,Male,Computer Science,3.4,Bus,High,96.0
+703,25,Male,Computer Science,6.3,Bus,Medium,70.0
+704,23,Male,Computer Science,5.9,Car,High,78.0
+705,21,Male,Computer Science,9.5,Car,High,95.0
+706,26,Male,Computer Science,6.6,Bike,High,104.0
+707,26,Female,Computer Science,3.4,Rickshaw,High,106.0
+708,24,Male,Computer Science,1.8,Walk,Low,16.0
+709,26,Male,Computer Science,6.6,Walk,High,104.0
+710,26,Male,Computer Science,6.5,Bike,High,89.0
+711,28,Male,Computer Science,8.7,Bus,High,160.0
+712,25,Male,Computer Science,9.3,Car,High,98.0
+713,24,Male,Computer Science,2.1,Bike,Low,19.0
+714,27,Male,Engineering,3.0,Bus,Medium,33.0
+715,26,Male,Computer Science,4.2,Bike,High,110.0
+716,25,Male,Computer Science,4.1,Car,High,98.0
+717,24,Male,Computer Science,5.8,Bus,Medium,59.0
+718,23,Male,Computer Science,11.7,Bus,High,216.0
+719,23,Female,Computer Science,4.5,Walk,Low,119.0
+720,24,Male,Computer Science,9.1,Rickshaw,High,125.0
+721,24,Male,Computer Science,12.3,Bus,Low,91.0
+722,33,Female,Computer Science,9.6,Bus,High,77.0
+723,38,Male,Engineering,12.6,Bus,High,157.0
+724,39,Male,English,14.2,Bus,High,132.0
+725,36,Male,Computer Science,8.9,Bike,High,93.0
+726,27,Male,Business Administration,6.2,Bus,High,44.0
+727,38,Female,Computer Science,9.0,Bus,High,92.0
+728,30,Female,Business Administration,13.1,Bike,High,116.0
+729,21,Female,Engineering,13.0,Bus,High,100.0
+730,23,Female,Computer Science,5.2,Car,High,50.0
+731,36,Female,English,4.4,Car,Low,27.0
+732,38,Male,Computer Science,3.2,Bus,High,43.0
+733,22,Male,English,9.3,Bus,Medium,62.0
+734,35,Female,Computer Science,14.4,Bike,High,151.0
+735,32,Male,Computer Science,9.8,Bus,Medium,69.0
+736,28,Male,English,12.9,Car,High,154.0
+737,25,Female,English,9.4,Bike,Medium,92.0
+738,22,Male,Computer Science,12.4,Bus,High,134.0
+739,25,Male,Engineering,7.0,Car,High,100.0
+740,23,Female,Computer Science,2.0,Bike,Low,25.0
+741,27,Male,Engineering,10.0,Bus,High,150.0
+742,24,Female,Computer Science,8.0,Car,Medium,80.0
+743,25,Male,Computer Science,6.0,Bus,Low,50.0
+744,26,Male,Engineering,4.0,Walk,Low,40.0
+745,23,Male,Computer Science,9.0,Bus,High,130.0
+746,25,Female,Computer Science,5.0,Bike,Medium,60.0
+747,24,Male,Engineering,3.0,Car,Low,45.0
+748,27,Female,Computer Science,12.0,Bus,High,160.0
+749,26,Male,Computer Science,7.0,Car,Medium,90.0
+750,25,Male,Engineering,4.0,Bike,Low,35.0
+751,23,Female,Computer Science,6.0,Bus,Medium,70.0
+752,24,Male,Computer Science,10.0,Car,High,110.0
+753,26,Female,Engineering,8.0,Bus,Medium,100.0
+754,25,Male,Computer Science,5.0,Walk,Low,20.0
+755,27,Male,Computer Science,9.0,Bus,High,140.0
+756,23,Female,Engineering,3.0,Bike,Low,30.0
+757,24,Male,Computer Science,7.0,Car,Medium,85.0
+758,26,Male,Computer Science,6.0,Bus,Low,55.0
+759,25,Female,Engineering,4.0,Walk,Low,25.0
+760,27,Female,Computer Science,11.0,Bus,High,170.0
+761,23,Male,Computer Science,8.0,Car,Medium,95.0
+762,24,Female,Engineering,5.0,Bike,Medium,50.0
+763,26,Male,Computer Science,9.0,Bus,High,120.0
+764,25,Male,Computer Science,3.0,Walk,Low,15.0
+765,27,Female,Engineering,7.0,Car,Medium,105.0
+766,23,Male,Computer Science,10.0,Bus,High,150.0
+767,24,Female,Computer Science,6.0,Bike,Medium,65.0
+768,26,Male,Engineering,4.0,Walk,Low,35.0
+769,25,Female,Computer Science,8.0,Car,High,115.0
+770,27,Male,Computer Science,5.0,Bus,Medium,75.0
+771,23,Female,Engineering,7.0,Bike,Low,40.0
+772,24,Male,Computer Science,6.0,Bus,Medium,70.0
+773,25,Female,Engineering,8.0,Car,High,120.0
+774,26,Male,Computer Science,7.0,Bus,Low,60.0
+775,23,Female,Computer Science,5.0,Bike,Medium,55.0
+776,27,Male,Engineering,9.0,Bus,High,130.0
+777,24,Female,Computer Science,4.0,Walk,Low,25.0
+778,25,Male,Computer Science,10.0,Car,Medium,100.0
+779,26,Female,Engineering,6.0,Bus,Medium,80.0
+780,23,Male,Computer Science,8.0,Bike,High,90.0
+781,27,Female,Computer Science,3.0,Walk,Low,20.0
+782,24,Male,Engineering,7.0,Bus,Medium,75.0
+783,25,Female,Computer Science,5.0,Car,High,110.0
+784,26,Male,Computer Science,9.0,Bus,Medium,95.0
+785,23,Female,Engineering,4.0,Bike,Low,30.0
+786,27,Male,Computer Science,6.0,Bus,High,140.0
+787,24,Female,Computer Science,8.0,Car,Medium,105.0
+788,25,Male,Engineering,3.0,Walk,Low,15.0
+789,26,Female,Computer Science,7.0,Bus,Medium,85.0
+790,23,Female,Computer Science,9.0,Bike,High,100.0
+791,27,Female,Engineering,5.0,Car,Medium,115.0
+792,24,Male,Computer Science,4.0,Bus,Low,50.0
+793,25,Female,Computer Science,6.0,Walk,Medium,35.0
+794,26,Male,Engineering,8.0,Bus,High,120.0
+795,23,Female,Computer Science,7.0,Car,Medium,90.0
+796,27,Male,Computer Science,5.0,Bike,Low,45.0
+797,24,Female,Engineering,9.0,Bus,Medium,110.0
+798,25,Male,Computer Science,3.0,Walk,Low,20.0
+799,26,Female,Computer Science,10.0,Car,High,130.0
+800,23,Male,Engineering,6.0,Bus,Medium,70.0
+801,27,Female,Computer Science,8.0,Bike,High,95.0
+802,24,Male,Computer Science,5.0,Bus,Medium,60.0
+803,25,Female,Engineering,7.0,Car,Low,40.0
+804,26,Male,Computer Science,9.0,Bus,High,140.0
+805,23,Female,Computer Science,4.0,Walk,Medium,25.0
+806,27,Male,Engineering,10.0,Car,Medium,120.0
+807,24,Female,Computer Science,6.0,Bike,High,85.0
+808,25,Male,Computer Science,8.0,Bus,Medium,100.0
+809,26,Female,Engineering,5.0,Walk,Low,30.0
+810,23,Male,Computer Science,7.0,Car,High,110.0
+811,27,Female,Computer Science,9.0,Bus,Medium,105.0
+812,24,Male,Engineering,3.0,Bike,Low,20.0
+813,25,Female,Computer Science,10.0,Bus,High,130.0
+814,26,Male,Computer Science,6.0,Car,Medium,90.0
+815,23,Female,Engineering,8.0,Walk,Low,35.0
+816,27,Male,Computer Science,5.0,Bike,Medium,55.0
+817,24,Female,Computer Science,9.0,Bus,High,140.0
+818,25,Male,Engineering,4.0,Car,Medium,75.0
+819,26,Female,Computer Science,7.0,Bus,Low,60.0
+820,23,Male,Computer Science,10.0,Bike,High,100.0
+821,27,Female,Engineering,6.0,Walk,Medium,40.0
+822,24,Male,Computer Science,8.0,Bus,Medium,95.0
+823,25,Female,Computer Science,3.0,Car,High,120.0
+824,26,Male,Engineering,9.0,Bus,Medium,85.0
+825,23,Female,Computer Science,5.0,Bike,Low,30.0
+826,27,Male,Computer Science,7.0,Walk,Medium,25.0
+827,24,Female,Engineering,10.0,Car,High,130.0
+828,25,Male,Computer Science,6.0,Bus,Medium,70.0
+829,26,Female,Computer Science,8.0,Bike,High,90.0
+830,23,Male,Engineering,4.0,Walk,Low,20.0
+831,27,Female,Computer Science,9.0,Bus,Medium,110.0
+832,24,Male,Computer Science,5.0,Car,High,115.0
+833,25,Female,Engineering,7.0,Bus,Medium,80.0
+834,26,Male,Computer Science,10.0,Bike,Low,45.0
+835,23,Female,Computer Science,6.0,Walk,Medium,35.0
+836,27,Male,Engineering,8.0,Bus,High,140.0
+837,24,Female,Computer Science,3.0,Car,Medium,60.0
+838,25,Male,Computer Science,9.0,Bike,High,100.0
+840,23,Male,Computer Science,7.0,Bus,Medium,90.0
+841,27,Female,Computer Science,10.0,Car,High,130.0
+842,24,Male,Engineering,6.0,Bike,Medium,85.0
+843,25,Female,Computer Science,8.0,Bus,Medium,105.0
+844,26,Male,Computer Science,4.0,Walk,Low,20.0
+845,23,Female,Computer Science,9.0,Car,High,120.0
+846,27,Male,Engineering,5.0,Bus,Medium,75.0
+847,24,Female,Computer Science,7.0,Bike,Low,40.0
+848,25,Male,Computer Science,10.0,Walk,Medium,25.0
+849,26,Female,Engineering,6.0,Bus,High,140.0
+851,27,Female,Computer Science,4.0,Bike,High,100.0
+852,24,Male,Engineering,9.0,Bus,Medium,110.0
+853,25,Female,Computer Science,5.0,Walk,Low,30.0
+854,26,Male,Computer Science,7.0,Car,High,130.0
+855,23,Female,Computer Science,10.0,Bus,Medium,85.0
+856,27,Male,Engineering,6.0,Bike,Low,35.0
+857,24,Female,Computer Science,8.0,Walk,Medium,20.0
+858,25,Male,Computer Science,9.0,Bus,High,140.0
+859,26,Female,Engineering,5.0,Car,Medium,75.0
+860,23,Male,Computer Science,7.0,Bike,Medium,60.0
+861,27,Female,Computer Science,10.0,Bus,High,130.0
+862,24,Male,Engineering,4.0,Walk,Low,25.0
+863,25,Female,Computer Science,6.0,Car,Medium,90.0
+864,26,Male,Computer Science,8.0,Bus,Medium,100.0
+865,23,Female,Engineering,9.0,Bike,High,95.0
+866,27,Male,Computer Science,5.0,Walk,Medium,30.0
+867,24,Female,Computer Science,10.0,Bus,High,140.0
+868,25,Male,Engineering,7.0,Car,Medium,105.0
+869,26,Female,Computer Science,6.0,Bike,Low,40.0
+870,23,Male,Computer Science,8.0,Walk,Medium,20.0
+871,27,Female,Engineering,9.0,Bus,High,130.0
+872,24,Male,Computer Science,5.0,Car,Medium,75.0
+873,25,Female,Computer Science,10.0,Bike,Medium,60.0
+874,26,Male,Engineering,4.0,Walk,Low,25.0
+875,23,Female,Computer Science,7.0,Bus,High,140.0
+876,27,Male,Computer Science,6.0,Car,Medium,90.0
+877,24,Female,Engineering,8.0,Bike,High,100.0
+878,25,Male,Computer Science,9.0,Walk,Medium,30.0
+879,26,Female,Computer Science,10.0,Bus,High,130.0
+880,23,Male,Engineering,5.0,Car,Medium,85.0
+881,27,Female,Computer Science,7.0,Bike,Low,35.0
+882,24,Male,Computer Science,8.0,Walk,Medium,20.0
+883,25,Female,Computer Science,9.0,Bus,High,140.0
+884,26,Male,Engineering,6.0,Car,Medium,75.0
+885,23,Female,Computer Science,10.0,Bike,Medium,60.0
+886,27,Male,Computer Science,4.0,Walk,Low,25.0
+887,24,Female,Engineering,7.0,Bus,High,130.0
+888,25,Male,Computer Science,8.0,Car,Medium,90.0
+889,26,Female,Computer Science,9.0,Bike,High,100.0
+890,23,Male,Engineering,5.0,Walk,Medium,30.0
+891,27,Female,Computer Science,10.0,Bus,High,140.0
+892,24,Male,Computer Science,6.0,Car,Medium,105.0
+893,25,Female,Engineering,7.0,Bike,Low,40.0
+894,26,Male,Computer Science,8.0,Walk,Medium,20.0
+895,23,Female,Computer Science,9.0,Bus,High,130.0
+896,27,Male,Engineering,5.0,Car,Medium,75.0
+897,24,Female,Computer Science,10.0,Bike,Medium,60.0
+898,25,Male,Computer Science,4.0,Walk,Low,25.0
+899,26,Female,Computer Science,7.0,Bus,High,140.0
+900,23,Male,Computer Science,8.0,Car,Medium,90.0
+901,27,Female,Engineering,9.0,Bike,High,100.0
+902,24,Male,Computer Science,5.0,Walk,Medium,30.0
+904,26,Male,Engineering,6.0,Car,Medium,85.0
+905,23,Female,Computer Science,7.0,Bike,Low,35.0
+906,27,Male,Computer Science,8.0,Walk,Medium,20.0
+907,24,Female,Engineering,9.0,Bus,High,140.0
+908,25,Male,Computer Science,5.0,Car,Medium,75.0
+909,26,Female,Computer Science,10.0,Bike,Medium,60.0
+910,23,Male,Engineering,4.0,Walk,Low,25.0
+911,27,Female,Computer Science,7.0,Bus,High,130.0
+912,24,Male,Computer Science,8.0,Car,Medium,90.0
+913,25,Female,Engineering,9.0,Bike,High,100.0
+914,26,Male,Computer Science,5.0,Walk,Medium,30.0
+915,23,Female,Computer Science,10.0,Bus,High,140.0
+916,27,Male,Engineering,6.0,Car,Medium,105.0
+918,25,Male,Computer Science,8.0,Walk,Medium,20.0
+919,26,Female,Computer Science,9.0,Bus,High,130.0
+920,23,Male,Engineering,5.0,Car,Medium,75.0
+921,27,Female,Computer Science,10.0,Bike,Medium,60.0
+922,24,Male,Computer Science,4.0,Walk,Low,25.0
+923,25,Female,Computer Science,7.0,Bus,High,140.0
+924,26,Male,Engineering,8.0,Car,Medium,90.0
+927,24,Female,Engineering,10.0,Bus,High,130.0
+928,25,Male,Computer Science,6.0,Car,Medium,85.0
+929,26,Female,Computer Science,8.0,Bike,Low,35.0
+930,23,Male,Computer Science,9.0,Walk,Medium,20.0
+931,27,Female,Engineering,7.0,Bus,High,140.0
+935,23,Female,Computer Science,8.0,Bus,High,130.0
+937,24,Female,Engineering,9.0,Bike,High,100.0
+938,25,Male,Computer Science,5.0,Walk,Medium,30.0
+939,26,Female,Computer Science,10.0,Bus,High,140.0
+940,23,Male,Engineering,7.0,Car,Medium,105.0
+941,27,Female,Computer Science,8.0,Bike,Low,40.0
+942,24,Male,Computer Science,9.0,Walk,Medium,20.0
+945,23,Female,Computer Science,7.0,Bike,Medium,60.0
+947,24,Female,Engineering,8.0,Bus,High,140.0
+948,25,Male,Computer Science,9.0,Car,Medium,90.0
+949,26,Female,Computer Science,5.0,Bike,High,100.0
+950,23,Male,Engineering,10.0,Walk,Medium,30.0
+951,27,Female,Computer Science,6.0,Bus,High,130.0
+953,25,Female,Engineering,8.0,Bike,Low,35.0
+954,26,Male,Computer Science,9.0,Walk,Medium,20.0
+957,24,Female,Computer Science,8.0,Bike,Medium,60.0
+959,26,Female,Computer Science,7.0,Bus,High,130.0
+960,23,Male,Computer Science,9.0,Car,Medium,90.0
+961,27,Female,Engineering,10.0,Bike,High,100.0
+963,25,Female,Computer Science,8.0,Bus,High,140.0
+966,27,Male,Computer Science,9.0,Walk,Medium,20.0
+968,25,Male,Computer Science,6.0,Car,Medium,75.0
+969,26,Female,Computer Science,8.0,Bike,Medium,60.0
+971,27,Female,Computer Science,7.0,Bus,High,140.0
+972,24,Male,Computer Science,9.0,Car,Medium,90.0
+973,25,Female,Engineering,10.0,Bike,High,100.0
+978,25,Male,Computer Science,9.0,Walk,Medium,20.0
+981,27,Female,Computer Science,8.0,Bike,Medium,60.0
+983,25,Female,Computer Science,7.0,Bus,High,130.0
+984,26,Male,Engineering,9.0,Car,Medium,90.0
+985,23,Female,Computer Science,10.0,Bike,High,100.0
+989,26,Female,Computer Science,9.0,Bike,Low,35.0
+990,23,Male,Computer Science,10.0,Walk,Medium,20.0
+991,27,Female,Engineering,7.0,Bus,High,130.0
+993,25,Female,Computer Science,8.0,Bike,Medium,60.0
+995,23,Female,Computer Science,9.0,Bus,High,140.0
+997,24,Female,Engineering,10.0,Bike,High,100.0
+999,26,Female,Computer Science,8.0,Bus,High,130.0
+1001,27,Female,Computer Science,9.0,Bike,Low,40.0
+1002,24,Male,Computer Science,10.0,Walk,Medium,20.0
+1007,24,Female,Engineering,8.0,Bus,High,130.0
+1009,26,Female,Engineering,10.0,Bike,High,100.0
+1010,23,Male,Computer Science,5.0,Walk,Medium,30.0
+1011,27,Female,Computer Science,8.0,Bus,High,140.0
+1012,24,Male,Engineering,6.0,Car,Medium,85.0
+1013,25,Female,Computer Science,9.0,Bike,Low,35.0
+1014,36,Male,Computer Science,5.0,Bike,Medium,60.0
+1015,29,Male,Computer Science,10.0,Bus,Medium,180.0
+1016,35,Male,Engineering,12.0,Bike,Medium,90.0
+1017,34,Male,Business Administration,16.0,Car,High,48.0
+1018,34,Female,Law,2.0,Bus,Low,30.0
+1019,38,Female,Arts,20.0,Car,High,180.0
+1020,31,Female,Business Administration,10.0,Bike,Medium,45.0
+1021,39,Male,Arts,6.0,Bike,Low,18.0
+1022,22,Male,Engineering,18.0,Walk,Medium,324.0
+1023,24,Male,Engineering,15.0,Bus,Low,65.0
+1024,38,Female,Computer Science,19.0,Bike,High,180.0
+1025,26,Male,Law,7.0,Bike,Low,35.0
+1026,28,Male,Arts,12.0,Car,Low,45.0
+1027,26,Female,Business Administration,12.0,Bus,Low,150.0
+1028,37,Male,Engineering,20.0,Car,Low,120.0
+1029,23,Female,Computer Science,2.0,Car,Low,25.0
+1030,33,Female,Computer Science,7.0,Bus,Medium,80.0
+1031,37,Female,Arts,5.0,Walk,Low,60.0
+1032,28,Male,Engineering,6.0,Car,Low,30.0
+1033,21,Male,Law,10.0,Bike,High,60.0
+1034,39,Male,Engineering,8.0,Car,Low,30.0
+1035,34,Male,Arts,8.0,Bus,High,135.0
+1036,26,Male,Arts,17.0,Bus,Medium,190.0
+1037,31,Male,Engineering,19.0,Bus,Low,140.0
+1038,27,Male,Arts,2.0,Walk,High,40.0
+1039,34,Female,Engineering,5.0,Car,High,75.0
+1040,22,Male,Business Administration,14.0,Car,Medium,200.0
+1041,33,Female,Engineering,1.0,Walk,Low,25.0
+1042,36,Male,Engineering,6.0,Bus,Low,35.0
+1043,23,Male,Arts,7.0,Bus,High,50.0
+1044,37,Male,Arts,3.0,Walk,Low,30.0
+1045,27,Female,Computer Science,15.0,Car,High,150.0
+1046,23,Female,Computer Science,4.0,Bike,Low,20.0
+1047,21,Female,Business Administration,14.0,Bus,High,250.0
+1048,25,Female,Computer Science,12.0,Car,Low,85.0
+1049,29,Male,Engineering,7.0,Bus,Medium,60.0
+1050,23,Female,Arts,9.0,Bus,Low,30.0
+1051,37,Male,Computer Science,6.0,Car,Low,25.0
+1052,31,Male,Computer Science,13.0,Bike,Medium,60.0
+1053,21,Female,Business Administration,3.0,Bus,Low,20.0
+1054,29,Female,Business Administration,1.0,Bus,Medium,20.0
+1055,23,Female,Engineering,13.0,Bus,Low,70.0
+1056,33,Female,Arts,5.0,Car,High,85.0
+1057,35,Female,Business Administration,2.0,Walk,High,30.0
+1058,34,Female,Computer Science,9.0,Bus,Low,45.0
+1059,27,Female,Arts,2.0,Walk,Low,25.0
+1060,33,Female,Arts,18.0,Bike,Low,70.0
+1061,27,Male,Computer Science,2.0,Bus,High,40.0
+1062,35,Female,Business Administration,12.0,Bus,Low,60.0
+1063,32,Female,Computer Science,9.0,Bike,High,54.0
+1064,37,Male,Arts,14.0,Bus,Medium,130.0
+1065,34,Female,Law,7.0,Walk,High,120.0
+1066,32,Male,Law,4.0,Car,High,35.0
+1067,28,Male,Engineering,5.0,Walk,Medium,60.0
+1068,34,Female,Computer Science,17.0,Car,High,245.0
+1069,32,Male,Computer Science,17.0,Car,Low,150.0
+1070,20,Male,Engineering,6.0,Walk,Low,90.0
+1071,26,Male,Engineering,2.0,Walk,High,45.0
+1072,28,Male,Engineering,1.0,Walk,Low,25.0
+1073,20,Female,Arts,11.0,Bus,High,210.0
+1074,31,Male,Computer Science,7.0,Bike,Low,50.0
+1075,27,Female,Arts,17.0,Bus,Low,100.0
+1076,30,Male,Engineering,6.0,Car,High,60.0
+1077,38,Male,Computer Science,19.0,Bus,Low,200.0
+1078,36,Male,Arts,10.0,Car,High,150.0
+1079,27,Male,Arts,17.0,Bike,Low,140.0
+1080,22,Female,Engineering,5.0,Bike,Low,25.0
+1081,22,Female,Computer Science,4.0,Walk,Medium,55.0
+1082,20,Male,Engineering,14.0,Bus,Medium,180.0
+1083,24,Male,Computer Science,4.0,Walk,High,60.0
+1084,29,Female,Law,4.0,Bus,Medium,30.0
+1085,26,Male,Business Administration,19.0,Bike,High,140.0
+1086,28,Male,Business Administration,15.0,Car,Medium,190.0
+1087,26,Male,Business Administration,2.0,Car,Low,20.0
+1088,28,Female,Engineering,9.0,Car,High,80.0
+1089,27,Female,Law,9.0,Car,High,100.0
+1090,31,Female,Computer Science,15.0,Bike,Low,90.0
+1091,21,Male,Arts,6.0,Bike,High,50.0
+1092,20,Male,Computer Science,5.0,Car,High,45.0
+1093,35,Female,Arts,3.0,Walk,Medium,35.0
+1094,24,Female,Computer Science,9.0,Bike,High,75.0
+1095,25,Male,Computer Science,1.5,Rickshaw,Low,40.0
+1096,25,Male,Computer Science,3.0,Bus,Medium,60.0
+1097,24,Male,Computer Science,1.5,Bus,Low,30.0
+1098,31,Male,Engineering,8.0,Bus,High,120.0
+1099,18,Male,Engineering,0.5,Walk,Low,10.0
+1100,26,Male,Industrial and Production Engineering,0.5,Walk,Low,15.0
+1101,26,Male,Industrial and Production Engineering,0.5,Walk,Low,14.0
+1102,25,Male,Medicine,0.2,Walk,Low,8.0
+1103,27,Male,Computer Science,4.0,Bus,Medium,50.0
+1104,27,Male,Computer Science,7.0,Bus,Medium,140.0
+1105,22,Male,Computer Science,6.0,Bus,High,140.0

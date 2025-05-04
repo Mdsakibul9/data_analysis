@@ -1,0 +1,975 @@
+,Age,Gender,Major,Time_spent(hr),Primary_media,Posting_Frequency,No_of_friends,Academic_Performance,Academic_Level
+0,25,Male,Computer Science & IT,3.0,Instagram,Rarely,8,Poor,0
+1,25,Male,Computer Science & IT,3.0,Facebook,Rarely,30,Average,1
+2,24,Female,Computer Science & IT,3.0,Facebook,Sometimes,600,Average,1
+3,25,Male,Computer Science & IT,1.0,Facebook,Rarely,500,Poor,0
+4,24,Male,Computer Science & IT,3.0,Facebook,Rarely,20,Average,1
+5,25,Male,Computer Science & IT,3.0,Facebook,Sometimes,2500,Good,2
+6,25,Male,Computer Science & IT,4.0,Facebook,Rarely,955,Average,1
+7,25,Male,Computer Science & IT,2.0,Facebook,Rarely,1100,Average,1
+8,23,Male,Computer Science & IT,1.5,Facebook,Rarely,300,Average,1
+9,25,Male,Computer Science & IT,2.0,Facebook,Rarely,560,Average,1
+10,25,Male,Electrical Engineering,2.0,X,Rarely,190,Average,1
+11,25,Male,Computer Science & IT,3.0,Facebook,Rarely,600,Good,2
+12,27,Male,Computer Science & IT,2.0,Facebook,Rarely,700,Average,1
+13,25,Male,Computer Science & IT,3.0,Facebook,Sometimes,500,Good,2
+14,25,Male,Computer Science & IT,3.0,Facebook,Rarely,500,Good,2
+16,25,Male,Computer Science & IT,1.0,Facebook,Rarely,3000,Good,2
+17,26,Male,Computer Science & IT,4.0,Facebook,Never,100,Average,1
+18,25,Male,Computer Science & IT,1.0,LinkedIn,Sometimes,1200,Good,2
+19,26,Male,Computer Science & IT,6.0,Facebook,Rarely,400,Average,1
+20,24,Female,Computer Science & IT,2.0,Instagram,Rarely,350,Good,2
+21,26,Male,Computer Science & IT,3.0,Facebook,Sometimes,1500,Good,2
+22,23,Female,Computer Science & IT,1.0,X,Rarely,80,Average,1
+23,25,Male,Computer Science & IT,2.0,Facebook,Rarely,400,Poor,0
+24,27,Male,Electrical Engineering,4.0,LinkedIn,Sometimes,500,Good,2
+25,24,Female,Computer Science & IT,1.5,Instagram,Rarely,220,Average,1
+26,25,Male,Computer Science & IT,3.0,Facebook,Sometimes,2500,Good,2
+27,26,Male,Electrical Engineering,2.0,X,Rarely,200,Average,1
+28,24,Female,Computer Science & IT,3.0,Facebook,Sometimes,1500,Good,2
+29,25,Male,Computer Science & IT,2.0,Facebook,Rarely,600,Average,1
+30,23,Male,Computer Science & IT,1.0,Facebook,Rarely,300,Poor,0
+31,26,Female,Computer Science & IT,3.0,Instagram,Rarely,800,Good,2
+32,25,Male,Electrical Engineering,4.0,X,Rarely,400,Average,1
+33,24,Male,Computer Science & IT,2.0,Facebook,Rarely,1000,Good,2
+34,27,Female,Computer Science & IT,3.0,Instagram,Sometimes,1500,Good,2
+35,25,Male,Computer Science & IT,1.5,Facebook,Rarely,500,Average,1
+36,24,Female,Computer Science & IT,3.0,Instagram,Rarely,700,Good,2
+37,26,Male,Computer Science & IT,2.0,Facebook,Rarely,650,Average,1
+38,23,Male,Electrical Engineering,1.0,LinkedIn,Rarely,400,Good,2
+39,25,Female,Computer Science & IT,3.0,Facebook,Sometimes,2000,Good,2
+40,26,Male,Electrical Engineering,2.5,X,Rarely,250,Average,1
+41,24,Male,Computer Science & IT,1.5,Instagram,Rarely,300,Poor,0
+42,23,Female,Computer Science & IT,2.0,Facebook,Rarely,700,Average,1
+43,25,Male,Electrical Engineering,3.0,Facebook,Sometimes,1200,Good,2
+44,24,Female,Computer Science & IT,1.5,Instagram,Rarely,500,Average,1
+45,26,Male,Computer Science & IT,3.0,Facebook,Sometimes,1800,Good,2
+46,27,Male,Computer Science & IT,4.0,X,Rarely,90,Average,1
+47,25,Female,Computer Science & IT,1.5,LinkedIn,Sometimes,950,Good,2
+48,26,Male,Computer Science & IT,3.0,Facebook,Rarely,1200,Good,2
+49,25,Male,Electrical Engineering,1.0,Facebook,Rarely,350,Poor,0
+50,24,Female,Computer Science & IT,2.0,Instagram,Sometimes,600,Good,2
+51,25,Male,Computer Science & IT,4.0,Facebook,Never,50,Average,1
+52,24,Female,Computer Science & IT,2.0,Facebook,Rarely,800,Good,2
+53,27,Male,Computer Science & IT,1.5,LinkedIn,Rarely,450,Average,1
+54,23,Male,Electrical Engineering,3.0,X,Rarely,500,Good,2
+55,25,Female,Computer Science & IT,2.0,Instagram,Rarely,250,Good,2
+56,26,Male,Computer Science & IT,2.5,Facebook,Sometimes,1000,Good,2
+57,27,Male,Computer Science & IT,3.0,Facebook,Rarely,800,Average,1
+58,25,Female,Computer Science & IT,1.5,Instagram,Rarely,300,Poor,0
+59,26,Male,Computer Science & IT,3.0,Facebook,Sometimes,1800,Good,2
+60,25,Male,Electrical Engineering,4.0,X,Rarely,70,Average,1
+61,24,Female,Computer Science & IT,2.0,LinkedIn,Sometimes,600,Good,2
+62,26,Male,Computer Science & IT,1.5,Facebook,Rarely,400,Poor,0
+63,23,Female,Computer Science & IT,3.0,Instagram,Rarely,1500,Good,2
+64,25,Male,Computer Science & IT,2.5,Facebook,Sometimes,850,Average,1
+65,24,Male,Electrical Engineering,3.0,X,Rarely,200,Good,2
+66,25,Female,Computer Science & IT,4.0,Instagram,Rarely,1200,Good,2
+67,26,Male,Computer Science & IT,2.0,Facebook,Rarely,450,Average,1
+68,23,Female,Electrical Engineering,3.0,LinkedIn,Rarely,900,Good,2
+69,25,Male,Computer Science & IT,2.0,Facebook,Rarely,600,Poor,0
+70,24,Female,Computer Science & IT,1.5,Instagram,Rarely,300,Average,1
+71,26,Male,Computer Science & IT,2.0,Facebook,Sometimes,1100,Good,2
+72,25,Female,Electrical Engineering,3.0,X,Rarely,250,Average,1
+73,27,Male,Computer Science & IT,4.0,Facebook,Rarely,800,Good,2
+74,24,Female,Computer Science & IT,2.0,Instagram,Rarely,400,Good,2
+75,26,Male,Computer Science & IT,3.0,Facebook,Sometimes,2000,Good,2
+76,25,Male,Computer Science & IT,2.0,Facebook,Rarely,750,Average,1
+77,23,Female,Electrical Engineering,3.0,X,Rarely,500,Good,2
+78,24,Male,Computer Science & IT,1.5,LinkedIn,Sometimes,600,Good,2
+79,26,Female,Computer Science & IT,2.5,Instagram,Rarely,400,Average,1
+80,27,Male,Computer Science & IT,3.0,Facebook,Sometimes,1400,Good,2
+81,25,Male,Computer Science & IT,1.5,Facebook,Rarely,500,Poor,0
+82,24,Female,Computer Science & IT,2.0,Instagram,Rarely,300,Average,1
+83,23,Female,Computer Science & IT,2.5,Facebook,Rarely,450,Good,2
+84,24,Male,Computer Science & IT,3.0,Instagram,Sometimes,800,Average,1
+85,25,Female,Electrical Engineering,1.5,X,Rarely,120,Good,2
+86,27,Male,Computer Science & IT,4.0,Facebook,Never,60,Average,1
+87,26,Female,Computer Science & IT,3.0,LinkedIn,Sometimes,1000,Good,2
+88,25,Male,Computer Science & IT,2.5,Facebook,Rarely,900,Good,2
+89,24,Female,Computer Science & IT,1.0,Instagram,Rarely,200,Poor,0
+90,26,Male,Electrical Engineering,3.0,X,Rarely,300,Average,1
+91,24,Male,Computer Science & IT,1.5,Facebook,Sometimes,400,Good,2
+92,23,Female,Computer Science & IT,2.0,LinkedIn,Rarely,500,Good,2
+93,25,Male,Computer Science & IT,4.0,Facebook,Rarely,1500,Good,2
+94,27,Male,Electrical Engineering,1.5,X,Rarely,200,Poor,0
+95,24,Female,Computer Science & IT,3.0,Instagram,Sometimes,1200,Good,2
+96,25,Male,Computer Science & IT,2.0,Facebook,Rarely,450,Average,1
+97,26,Female,Electrical Engineering,4.0,LinkedIn,Sometimes,800,Good,2
+98,23,Male,Computer Science & IT,1.5,Instagram,Rarely,350,Average,1
+99,25,Male,Computer Science & IT,3.0,Facebook,Sometimes,2000,Good,2
+100,24,Female,Computer Science & IT,2.5,LinkedIn,Rarely,750,Good,2
+101,27,Male,Electrical Engineering,3.0,X,Rarely,100,Poor,0
+102,26,Male,Computer Science & IT,1.5,Facebook,Rarely,400,Poor,0
+103,24,Female,Computer Science & IT,2.0,Instagram,Sometimes,600,Average,1
+104,25,Male,Electrical Engineering,4.0,X,Rarely,300,Average,1
+105,23,Female,Computer Science & IT,1.0,LinkedIn,Sometimes,500,Good,2
+106,26,Male,Computer Science & IT,3.0,Facebook,Rarely,1200,Good,2
+107,25,Female,Computer Science & IT,2.0,Instagram,Rarely,550,Good,2
+108,25,Female,Computer Science & IT,7.2,Instagram,Rarely,336,Average,1
+110,21,Male,Business & Management,0.0,Snapchat,Never,1411,Good,2
+111,25,Female,Computer Science & IT,7.7,LinkedIn,Rarely,1359,Poor,0
+113,18,Female,Biological Sciences,0.9,Snapchat,Sometimes,368,Good,2
+114,25,Female,Mechanical Engineering,6.7,Snapchat,Rarely,75,Average,1
+115,26,Female,Computer Science & IT,0.6,Snapchat,Rarely,650,Good,2
+118,22,Male,Other,0.6,Facebook,Rarely,1017,Good,2
+119,26,Female,Computer Science & IT,0.5,TikTok,Rarely,272,Good,2
+121,22,Female,Biological Sciences,2.9,X,Rarely,1049,Average,1
+123,23,Female,Computer Science & IT,6.5,LinkedIn,Rarely,292,Poor,0
+124,20,Male,Mechanical Engineering,1.7,Snapchat,Often,1467,Good,2
+126,24,Male,Electrical Engineering,7.5,Facebook,Often,1373,Average,1
+127,26,Male,Biological Sciences,1.6,LinkedIn,Sometimes,445,Good,2
+129,19,Female,Other,0.4,Facebook,Rarely,375,Average,1
+131,24,Female,Computer Science & IT,7.5,Snapchat,Sometimes,1276,Average,1
+132,25,Female,Computer Science & IT,6.0,TikTok,Rarely,269,Poor,0
+133,19,Male,Other,4.2,Snapchat,Sometimes,248,Poor,0
+135,20,Female,Computer Science & IT,3.8,TikTok,Rarely,1001,Poor,0
+136,23,Female,Biological Sciences,6.4,Instagram,Rarely,223,Poor,0
+137,21,Female,Business & Management,0.8,Snapchat,Sometimes,623,Good,2
+138,20,Male,Computer Science & IT,1.5,LinkedIn,Sometimes,933,Good,2
+139,21,Male,Computer Science & IT,2.5,LinkedIn,Never,0,Good,2
+140,25,Male,Computer Science & IT,7.6,Instagram,Rarely,739,Average,1
+141,19,Male,Computer Science & IT,5.1,Facebook,Rarely,737,Good,2
+142,23,Female,Mechanical Engineering,6.0,Snapchat,Sometimes,1076,Poor,0
+143,20,Male,Business & Management,7.1,LinkedIn,Never,818,Average,1
+144,20,Female,Computer Science & IT,3.9,LinkedIn,Sometimes,1007,Average,1
+145,18,Female,Other,1.8,Facebook,Rarely,1013,Good,2
+146,18,Male,Electrical Engineering,6.2,Instagram,Rarely,71,Average,1
+147,26,Male,Electrical Engineering,0.2,LinkedIn,Rarely,1313,Good,2
+148,21,Female,Electrical Engineering,3.4,Instagram,Sometimes,1044,Poor,0
+149,20,Female,Mechanical Engineering,3.0,TikTok,Sometimes,1421,Average,1
+150,24,Female,Biological Sciences,0.9,Facebook,Often,1322,Good,2
+151,26,Female,Computer Science & IT,5.5,TikTok,Rarely,1403,Average,1
+152,23,Female,Computer Science & IT,8.0,Facebook,Rarely,768,Average,1
+153,18,Male,Computer Science & IT,2.3,LinkedIn,Rarely,301,Average,1
+154,24,Male,Mechanical Engineering,2.6,Snapchat,Sometimes,640,Good,2
+155,21,Male,Computer Science & IT,3.5,LinkedIn,Rarely,369,Average,1
+156,19,Female,Computer Science & IT,2.7,TikTok,Sometimes,1361,Average,1
+157,20,Male,Computer Science & IT,2.4,Snapchat,Sometimes,334,Average,1
+158,26,Male,Electrical Engineering,7.8,LinkedIn,Rarely,1426,Poor,0
+159,18,Female,Computer Science & IT,4.5,X,Rarely,929,Average,1
+160,23,Male,Other,6.7,LinkedIn,Rarely,1385,Average,1
+161,25,Male,Mechanical Engineering,5.5,Instagram,Rarely,1483,Good,2
+162,23,Male,Biological Sciences,4.7,LinkedIn,Sometimes,742,Average,1
+163,18,Female,Mechanical Engineering,6.2,Instagram,Rarely,1486,Poor,0
+164,25,Male,Computer Science & IT,3.9,X,Sometimes,980,Good,2
+165,21,Male,Biological Sciences,2.0,LinkedIn,Rarely,183,Good,2
+167,19,Female,Other,4.0,LinkedIn,Rarely,173,Average,1
+168,21,Female,Biological Sciences,7.5,Instagram,Sometimes,1306,Poor,0
+170,19,Female,Business & Management,7.3,X,Rarely,1337,Good,2
+171,19,Female,Other,0.7,Instagram,Sometimes,408,Good,2
+172,20,Female,Mechanical Engineering,7.1,Snapchat,Rarely,152,Good,2
+173,24,Female,Computer Science & IT,7.9,Facebook,Sometimes,287,Average,1
+175,25,Male,Mechanical Engineering,6.4,Snapchat,Rarely,748,Average,1
+176,24,Female,Other,5.9,Facebook,Never,689,Good,2
+177,20,Male,Business & Management,2.0,Facebook,Never,1008,Good,2
+178,24,Male,Computer Science & IT,5.3,Instagram,Never,559,Poor,0
+179,18,Female,Mechanical Engineering,6.6,X,Rarely,1277,Poor,0
+180,19,Female,Business & Management,1.6,Facebook,Rarely,635,Good,2
+181,21,Female,Computer Science & IT,0.0,LinkedIn,Never,449,Good,2
+182,21,Male,Mechanical Engineering,0.0,LinkedIn,Never,354,Good,2
+183,22,Female,Mechanical Engineering,2.8,TikTok,Sometimes,1048,Good,2
+185,25,Male,Other,5.7,X,Rarely,1131,Average,1
+187,25,Male,Computer Science & IT,2.6,Instagram,Rarely,513,Average,1
+188,19,Female,Computer Science & IT,7.2,TikTok,Rarely,237,Average,1
+189,23,Male,Computer Science & IT,3.6,Snapchat,Rarely,1172,Average,1
+190,26,Female,Computer Science & IT,0.3,LinkedIn,Rarely,1206,Good,2
+191,25,Male,Computer Science & IT,11.0,X,Daily,1165,Poor,0
+192,18,Female,Mechanical Engineering,1.5,TikTok,Rarely,55,Average,1
+193,24,Male,Electrical Engineering,6.6,TikTok,Rarely,973,Poor,0
+194,24,Male,Other,3.8,X,Often,370,Good,2
+195,22,Male,Computer Science & IT,6.3,Facebook,Sometimes,1392,Poor,0
+196,19,Female,Computer Science & IT,2.2,LinkedIn,Sometimes,101,Good,2
+197,25,Female,Electrical Engineering,3.6,Instagram,Rarely,68,Poor,0
+198,20,Female,Other,3.7,X,Often,587,Average,1
+199,23,Female,Computer Science & IT,2.3,Facebook,Often,1123,Good,2
+200,23,Male,Computer Science & IT,6.8,Instagram,Rarely,62,Good,2
+201,19,Female,Computer Science & IT,0.0,Facebook,Never,1383,Good,2
+202,22,Female,Biological Sciences,3.0,Facebook,Often,945,Good,2
+203,26,Female,Business & Management,0.2,X,Sometimes,397,Good,2
+205,21,Male,Electrical Engineering,6.6,Instagram,Rarely,350,Average,1
+206,21,Male,Computer Science & IT,6.0,Instagram,Sometimes,51,Average,1
+207,21,Female,Other,2.8,Snapchat,Never,693,Good,2
+208,25,Male,Other,4.0,TikTok,Sometimes,726,Average,1
+209,25,Female,Computer Science & IT,5.3,Instagram,Rarely,1316,Poor,0
+210,20,Female,Business & Management,1.1,TikTok,Often,258,Good,2
+211,18,Female,Computer Science & IT,4.1,Snapchat,Rarely,420,Poor,0
+212,21,Female,Computer Science & IT,4.9,Snapchat,Rarely,1137,Average,1
+213,22,Male,Mechanical Engineering,7.7,LinkedIn,Sometimes,638,Poor,0
+215,24,Male,Computer Science & IT,6.7,Instagram,Rarely,468,Average,1
+216,20,Female,Biological Sciences,10.0,Facebook,Daily,515,Poor,0
+217,20,Female,Other,2.8,Instagram,Sometimes,1383,Good,2
+219,23,Female,Computer Science & IT,1.8,Facebook,Often,482,Average,1
+220,24,Female,Other,3.5,Instagram,Rarely,65,Poor,0
+221,23,Male,Biological Sciences,5.7,Facebook,Never,378,Poor,0
+223,20,Male,Computer Science & IT,6.9,LinkedIn,Sometimes,1322,Average,1
+224,23,Female,Computer Science & IT,4.5,Snapchat,Sometimes,1064,Average,1
+225,19,Male,Electrical Engineering,2.8,Instagram,Rarely,818,Good,2
+226,24,Female,Computer Science & IT,0.0,Snapchat,Never,1104,Poor,0
+227,22,Female,Electrical Engineering,1.3,Facebook,Sometimes,1390,Good,2
+229,20,Male,Electrical Engineering,5.0,Snapchat,Never,94,Poor,0
+230,24,Female,Other,7.3,Instagram,Never,180,Average,1
+232,19,Male,Computer Science & IT,4.8,TikTok,Rarely,1132,Average,1
+233,26,Male,Computer Science & IT,6.5,TikTok,Rarely,358,Poor,0
+235,23,Female,Biological Sciences,3.9,Instagram,Rarely,444,Good,2
+237,26,Male,Biological Sciences,3.0,X,Rarely,1215,Average,1
+238,26,Male,Computer Science & IT,4.8,Snapchat,Rarely,1433,Poor,0
+239,22,Male,Computer Science & IT,7.6,Facebook,Rarely,874,Poor,0
+240,26,Male,Computer Science & IT,4.6,Facebook,Often,578,Poor,0
+241,22,Male,Biological Sciences,6.7,TikTok,Often,1130,Average,1
+242,19,Male,Biological Sciences,4.3,X,Often,1387,Poor,0
+244,26,Female,Electrical Engineering,2.7,Facebook,Rarely,5036,Average,1
+245,20,Male,Business & Management,2.9,LinkedIn,Rarely,450,Good,2
+247,25,Male,Computer Science & IT,2.1,Instagram,Sometimes,1109,Average,1
+248,24,Male,Computer Science & IT,4.6,TikTok,Sometimes,369,Average,1
+249,26,Male,Other,1.7,X,Never,749,Average,1
+251,25,Male,Electrical Engineering,0.6,Instagram,Rarely,143,Good,2
+252,18,Male,Biological Sciences,5.4,TikTok,Sometimes,114,Average,1
+253,23,Male,Computer Science & IT,3.5,X,Never,701,Poor,0
+254,19,Male,Electrical Engineering,5.8,X,Rarely,1446,Poor,0
+255,24,Male,Biological Sciences,1.3,TikTok,Rarely,949,Average,1
+256,19,Female,Other,0.3,Instagram,Sometimes,528,Good,2
+257,25,Female,Other,3.8,Instagram,Rarely,593,Average,1
+259,20,Male,Other,2.0,LinkedIn,Rarely,427,Good,2
+260,19,Female,Biological Sciences,0.3,X,Never,298,Good,2
+261,22,Female,Computer Science & IT,3.5,Facebook,Rarely,301,Good,2
+262,24,Female,Mechanical Engineering,4.1,TikTok,Rarely,613,Average,1
+263,25,Female,Computer Science & IT,7.6,X,Sometimes,214,Poor,0
+264,24,Male,Business & Management,5.3,Snapchat,Rarely,81,Good,2
+265,24,Male,Other,2.0,LinkedIn,Sometimes,194,Average,1
+266,26,Female,Computer Science & IT,4.0,X,Rarely,724,Average,1
+267,18,Female,Electrical Engineering,7.7,LinkedIn,Sometimes,0,Poor,0
+268,22,Female,Computer Science & IT,1.1,LinkedIn,Sometimes,277,Good,2
+269,26,Male,Computer Science & IT,1.4,X,Sometimes,1262,Average,1
+270,26,Female,Mechanical Engineering,5.7,Instagram,Often,130,Poor,0
+271,22,Female,Computer Science & IT,6.8,Instagram,Rarely,1229,Good,2
+272,19,Male,Business & Management,5.7,Facebook,Sometimes,1457,Average,1
+274,23,Male,Computer Science & IT,1.5,Facebook,Rarely,518,Good,2
+275,20,Female,Business & Management,3.1,TikTok,Sometimes,1261,Average,1
+276,24,Male,Biological Sciences,4.7,Instagram,Sometimes,562,Good,2
+277,23,Female,Biological Sciences,0.7,Snapchat,Rarely,1051,Good,2
+278,24,Male,Computer Science & IT,3.6,Instagram,Sometimes,1083,Average,1
+279,21,Female,Mechanical Engineering,7.0,Facebook,Rarely,536,Average,1
+280,23,Female,Computer Science & IT,5.7,TikTok,Often,421,Average,1
+281,20,Male,Computer Science & IT,12.0,Facebook,Sometimes,864,Poor,0
+283,21,Male,Biological Sciences,5.7,TikTok,Never,1491,Average,1
+284,23,Female,Computer Science & IT,3.7,Snapchat,Sometimes,8616,Good,2
+285,19,Male,Business & Management,1.9,Facebook,Often,1474,Average,1
+286,26,Male,Computer Science & IT,0.2,Instagram,Rarely,1197,Average,1
+287,24,Male,Electrical Engineering,0.1,Snapchat,Rarely,308,Good,2
+288,24,Male,Business & Management,0.0,TikTok,Never,690,Good,2
+290,20,Male,Biological Sciences,7.1,Facebook,Never,558,Good,2
+292,18,Male,Computer Science & IT,4.5,Snapchat,Sometimes,1147,Average,1
+293,20,Female,Business & Management,4.5,TikTok,Rarely,203,Average,1
+294,18,Male,Computer Science & IT,0.2,Snapchat,Rarely,811,Average,1
+295,24,Male,Computer Science & IT,1.4,Snapchat,Sometimes,0,Good,2
+296,26,Male,Biological Sciences,7.0,Facebook,Sometimes,93,Average,1
+297,24,Male,Mechanical Engineering,7.7,Facebook,Rarely,99,Average,1
+298,25,Male,Other,7.7,X,Often,487,Average,1
+299,21,Female,Computer Science & IT,6.2,TikTok,Sometimes,1330,Good,2
+300,24,Male,Computer Science & IT,0.4,LinkedIn,Sometimes,0,Average,1
+301,22,Male,Electrical Engineering,6.4,Facebook,Sometimes,341,Average,1
+302,21,Female,Other,1.9,Instagram,Never,259,Average,1
+303,25,Male,Mechanical Engineering,1.4,Facebook,Rarely,1445,Good,2
+304,19,Male,Computer Science & IT,7.8,Facebook,Rarely,269,Average,1
+305,19,Female,Computer Science & IT,4.1,Facebook,Rarely,987,Average,1
+306,26,Male,Computer Science & IT,7.4,LinkedIn,Rarely,761,Average,1
+307,26,Male,Computer Science & IT,2.0,Facebook,Sometimes,1804,Average,1
+308,26,Male,Computer Science & IT,3.0,Facebook,Never,676,Poor,0
+309,25,Female,Computer Science & IT,2.0,Instagram,Sometimes,1045,Poor,0
+310,27,Male,Computer Science & IT,3.0,X,Rarely,1564,Average,1
+311,25,Male,Computer Science & IT,2.0,Facebook,Often,523,Poor,0
+312,27,Male,Computer Science & IT,2.0,Instagram,Daily,807,Average,1
+313,26,Male,Computer Science & IT,1.0,X,Never,2499,Poor,0
+314,26,Female,Computer Science & IT,1.0,Facebook,Sometimes,880,Good,2
+315,25,Male,Computer Science & IT,3.0,X,Sometimes,790,Poor,0
+316,26,Male,Electrical Engineering,1.0,LinkedIn,Often,1434,Good,2
+317,27,Female,Electrical Engineering,4.0,X,Often,979,Poor,0
+318,27,Male,Computer Science & IT,2.0,Instagram,Rarely,811,Good,2
+319,25,Male,Electrical Engineering,3.0,Facebook,Sometimes,1857,Average,1
+320,26,Female,Computer Science & IT,1.0,Instagram,Rarely,1292,Poor,0
+321,27,Female,Computer Science & IT,1.0,LinkedIn,Rarely,2425,Poor,0
+322,25,Female,Computer Science & IT,3.0,X,Never,2003,Good,2
+323,26,Male,Computer Science & IT,1.0,Instagram,Never,1292,Good,2
+324,26,Female,Computer Science & IT,1.0,X,Daily,1911,Good,2
+325,25,Female,Electrical Engineering,3.0,Instagram,Often,1855,Poor,0
+326,27,Female,Computer Science & IT,4.0,X,Sometimes,1096,Poor,0
+327,27,Male,Computer Science & IT,4.0,X,Daily,2499,Average,1
+328,27,Male,Computer Science & IT,1.0,Facebook,Daily,1551,Average,1
+329,27,Male,Computer Science & IT,1.0,Instagram,Never,344,Good,2
+330,26,Male,Computer Science & IT,4.0,Instagram,Daily,1814,Good,2
+331,27,Male,Computer Science & IT,1.0,Instagram,Often,2232,Good,2
+332,27,Female,Computer Science & IT,1.0,LinkedIn,Often,2342,Average,1
+333,26,Male,Electrical Engineering,4.0,LinkedIn,Sometimes,739,Poor,0
+334,27,Female,Computer Science & IT,1.0,LinkedIn,Rarely,983,Average,1
+335,25,Male,Electrical Engineering,3.0,Facebook,Daily,1980,Good,2
+336,26,Female,Computer Science & IT,4.0,Instagram,Often,1489,Poor,0
+337,27,Male,Computer Science & IT,4.0,Facebook,Often,1730,Poor,0
+338,27,Female,Computer Science & IT,3.0,Facebook,Often,739,Poor,0
+339,26,Male,Computer Science & IT,2.0,X,Often,669,Good,2
+340,27,Male,Computer Science & IT,3.0,X,Never,1656,Poor,0
+341,27,Male,Computer Science & IT,1.0,Instagram,Daily,1047,Good,2
+342,26,Male,Computer Science & IT,1.0,Facebook,Often,554,Average,1
+343,26,Male,Computer Science & IT,3.0,X,Often,922,Good,2
+344,26,Female,Computer Science & IT,3.0,Instagram,Sometimes,1096,Poor,0
+345,26,Female,Computer Science & IT,4.0,Facebook,Never,523,Average,1
+346,26,Female,Computer Science & IT,1.0,LinkedIn,Daily,1370,Average,1
+347,26,Female,Computer Science & IT,2.0,X,Daily,1374,Poor,0
+348,27,Female,Computer Science & IT,1.0,Facebook,Rarely,1486,Average,1
+349,25,Female,Computer Science & IT,2.0,Instagram,Never,807,Good,2
+350,25,Male,Computer Science & IT,3.0,LinkedIn,Never,1081,Good,2
+351,26,Female,Computer Science & IT,1.0,X,Daily,807,Average,1
+352,25,Male,Electrical Engineering,1.0,LinkedIn,Daily,868,Poor,0
+353,26,Male,Electrical Engineering,4.0,X,Never,1525,Poor,0
+354,25,Male,Computer Science & IT,1.0,Instagram,Rarely,922,Average,1
+355,27,Male,Computer Science & IT,3.0,Facebook,Never,1691,Average,1
+356,26,Female,Computer Science & IT,1.0,X,Never,1972,Good,2
+357,25,Male,Electrical Engineering,1.0,Facebook,Rarely,1656,Average,1
+358,25,Male,Computer Science & IT,3.0,X,Never,536,Average,1
+359,25,Female,Computer Science & IT,1.0,X,Often,1564,Good,2
+360,27,Male,Computer Science & IT,3.0,LinkedIn,Rarely,1972,Average,1
+361,26,Female,Computer Science & IT,1.0,Instagram,Never,2447,Average,1
+362,26,Female,Computer Science & IT,1.0,Instagram,Sometimes,698,Good,2
+363,25,Female,Computer Science & IT,4.0,LinkedIn,Rarely,739,Poor,0
+364,27,Female,Electrical Engineering,3.0,Facebook,Daily,1370,Average,1
+365,26,Female,Computer Science & IT,3.0,X,Sometimes,536,Good,2
+366,26,Female,Computer Science & IT,4.0,LinkedIn,Sometimes,1972,Average,1
+367,25,Male,Computer Science & IT,1.0,Instagram,Daily,1325,Good,2
+368,25,Male,Computer Science & IT,3.0,LinkedIn,Never,1341,Average,1
+369,26,Female,Electrical Engineering,4.0,Instagram,Daily,1434,Good,2
+370,26,Female,Computer Science & IT,3.0,Facebook,Rarely,853,Good,2
+371,26,Female,Computer Science & IT,4.0,Instagram,Daily,977,Poor,0
+372,26,Female,Computer Science & IT,3.0,LinkedIn,Rarely,1551,Poor,0
+373,26,Female,Computer Science & IT,2.0,Instagram,Never,523,Good,2
+374,26,Male,Computer Science & IT,3.0,Instagram,Rarely,1729,Good,2
+375,26,Female,Computer Science & IT,4.0,X,Never,2110,Average,1
+376,26,Female,Computer Science & IT,3.0,Facebook,Often,1814,Poor,0
+377,25,Male,Computer Science & IT,3.0,X,Daily,350,Average,1
+378,26,Male,Electrical Engineering,4.0,X,Often,2014,Poor,0
+379,25,Female,Electrical Engineering,1.0,Facebook,Rarely,1844,Average,1
+380,27,Female,Computer Science & IT,1.0,Facebook,Often,554,Good,2
+381,25,Female,Computer Science & IT,4.0,Facebook,Often,2482,Poor,0
+382,26,Female,Electrical Engineering,4.0,Facebook,Sometimes,687,Poor,0
+383,26,Male,Computer Science & IT,3.0,X,Rarely,1769,Good,2
+384,27,Male,Computer Science & IT,1.0,Facebook,Sometimes,977,Good,2
+385,27,Male,Computer Science & IT,2.0,Instagram,Daily,466,Good,2
+386,25,Male,Computer Science & IT,1.0,X,Sometimes,1846,Poor,0
+387,25,Female,Computer Science & IT,2.0,Instagram,Never,2430,Average,1
+388,25,Male,Electrical Engineering,4.0,Instagram,Never,927,Average,1
+389,26,Male,Electrical Engineering,3.0,Facebook,Often,2014,Good,2
+390,27,Male,Electrical Engineering,3.0,Facebook,Daily,1844,Average,1
+391,25,Female,Computer Science & IT,3.0,X,Often,694,Poor,0
+392,25,Female,Computer Science & IT,2.0,Facebook,Often,1156,Poor,0
+393,26,Female,Computer Science & IT,1.0,X,Sometimes,1486,Good,2
+394,25,Male,Electrical Engineering,4.0,LinkedIn,Rarely,1730,Average,1
+395,26,Female,Computer Science & IT,2.0,Instagram,Rarely,1752,Average,1
+396,27,Female,Computer Science & IT,3.0,LinkedIn,Sometimes,1325,Average,1
+397,27,Male,Computer Science & IT,1.0,X,Often,591,Average,1
+398,26,Male,Computer Science & IT,1.0,X,Daily,2430,Average,1
+399,25,Male,Computer Science & IT,2.0,LinkedIn,Often,1979,Average,1
+400,26,Male,Electrical Engineering,1.0,Instagram,Daily,1579,Poor,0
+401,26,Female,Computer Science & IT,1.0,X,Never,1362,Good,2
+402,26,Female,Computer Science & IT,1.0,LinkedIn,Never,344,Poor,0
+403,27,Male,Computer Science & IT,1.0,Instagram,Never,1044,Poor,0
+404,27,Female,Computer Science & IT,4.0,Facebook,Often,531,Average,1
+405,26,Female,Computer Science & IT,3.0,Instagram,Daily,694,Good,2
+406,27,Male,Computer Science & IT,1.0,Facebook,Never,1857,Poor,0
+407,26,Male,Computer Science & IT,5.0,Facebook,Often,1067,Average,1
+408,25,Male,Textile Engineering,7.0,Facebook,Rarely,1245,Average,1
+409,25,Male,Computer Science & IT,2.0,Instagram,Rarely,875,Good,2
+410,31,Male,Mechanical Engineering,4.0,Facebook,Often,1500,Average,1
+411,25,Female,Physics,2.0,Facebook,Daily,712,Good,2
+412,25,Female,Computer Science & IT,4.0,Facebook,Often,612,Good,2
+414,25,Female,Computer Science & IT,1.0,Facebook,Rarely,517,Good,2
+415,26,Male,Textile,2.0,Instagram,Never,95,Average,1
+416,25,Female,Computer Science & IT,0.5,Facebook,Never,157,Good,2
+417,27,Male,Textile,5.0,Facebook,Daily,789,Average,1
+418,27,Male,Mechanical Engineering,2.0,Facebook,Rarely,356,Good,2
+419,35,Male,Business & Management,2.0,Facebook,Rarely,756,Poor,0
+420,27,Male,Textile,7.0,Facebook,Daily,3051,Good,2
+421,26,Male,Textile,3.0,Facebook,Rarely,757,Average,1
+422,26,Female,Electrical Engineering,3.0,Facebook,Rarely,367,Average,1
+423,27,Male,Textile,5.0,Instagram,Rarely,1465,Good,2
+424,36,Male,Business & Management,2.0,Facebook,Rarely,1227,Good,2
+425,25,Female,Computer Science & IT,3.0,Facebook,Rarely,700,Good,2
+426,26,Male,Computer Science & IT,3.0,Facebook,Sometimes,957,Average,1
+427,40,Male,Computer Science & IT,4.0,Facebook,Rarely,1351,Average,1
+428,27,Female,Computer Science & IT,4.0,Facebook,Sometimes,421,Good,2
+429,27,Female,Computer Science & IT,3.0,Facebook,Often,821,Good,2
+430,26,Male,Textile,4.0,Facebook,Rarely,1542,Good,2
+431,22,Male,Computer Science & IT,8.0,Facebook,Never,1,Average,1
+432,23,Female,Computer Science & IT,4.0,Facebook,Sometimes,850,Average,1
+433,23,Male,Computer Science & IT,4.0,Facebook,Never,1,Good,2
+434,20,Male,Computer Science & IT,1.0,Facebook,Daily,341,Good,2
+435,23,Female,Computer Science & IT,4.0,Facebook,Often,1,Good,2
+436,25,Male,Business & Management,7.0,Facebook,Sometimes,1,Good,2
+437,20,Male,Computer Science & IT,3.0,Facebook,Rarely,152,Poor,0
+438,20,Male,Computer Science & IT,3.0,Facebook,Sometimes,10,Average,1
+439,25,Male,Mechanical Engineering,4.0,Facebook,Rarely,700,Average,1
+440,20,Male,Computer Science & IT,3.0,Facebook,Never,198,Good,2
+441,24,Female,Business & Management,8.0,Facebook,Sometimes,289,Poor,0
+442,25,Male,Computer Science & IT,6.0,Facebook,Sometimes,350,Good,2
+443,28,Male,Computer Science & IT,2.0,Facebook,Rarely,650,Good,2
+444,28,Male,Computer Science & IT,6.0,Facebook,Daily,1,Average,1
+445,26,Male,Computer Science & IT,3.0,Facebook,Rarely,900,Average,1
+446,28,Female,Computer Science & IT,4.0,Facebook,Often,380,Average,1
+447,23,Male,Computer Science & IT,4.0,Facebook,Sometimes,3,Average,1
+448,22,Male,Computer Science & IT,2.0,Facebook,Rarely,150,Good,2
+449,24,Male,Computer Science & IT,2.0,Facebook,Often,200,Average,1
+450,23,Male,Computer Science & IT,1.0,Facebook,Rarely,217,Average,1
+452,26,Male,Computer Science & IT,6.0,Facebook,Sometimes,500,Average,1
+453,24,Male,Computer Science & IT,4.0,Facebook,Rarely,10,Good,2
+454,24,Male,Computer Science & IT,3.0,Facebook,Sometimes,20,Good,2
+455,21,Male,Computer Science & IT,4.0,LinkedIn,Sometimes,3,Average,1
+456,27,Male,Computer Science & IT,4.0,Facebook,Daily,2,Average,1
+457,28,Female,Medical Sciences,3.0,Facebook,Sometimes,1,Good,2
+458,23,Male,Computer Science & IT,5.0,Facebook,Rarely,250,Good,2
+459,23,Female,Computer Science & IT,4.0,Facebook,Sometimes,269,Average,1
+460,26,Female,Physics,3.0,X,Sometimes,112,Good,2
+461,27,Male,Social Sciences,2.0,Facebook,Sometimes,500,Good,2
+462,26,Female,Nuclear Engineering,2.0,Instagram,Rarely,50,Good,2
+463,26,Female,Chemistry,5.0,Facebook,Often,4,Poor,0
+464,24,Female,Biological Sciences,5.0,Instagram,Often,250,Good,2
+465,25,Female,Chemistry,6.0,Instagram,Often,400,Good,2
+466,23,Female,Social Sciences,6.0,Facebook,Often,452,Average,1
+469,26,Male,Computer Science & IT,2.0,Instagram,Sometimes,15,Poor,0
+470,24,Male,Computer Science & IT,4.0,Facebook,Rarely,50,Average,1
+471,23,Female,Computer Science & IT,2.0,Facebook,Always,700,Good,2
+472,25,Male,Computer Science & IT,1.5,Facebook,Sometimes,300,Poor,0
+473,26,Male,Computer Science & IT,3.0,Facebook,Rarely,40,Average,1
+474,24,Female,Computer Science & IT,2.0,Instagram,Always,2000,Good,2
+475,25,Male,Computer Science & IT,3.0,X,Rarely,600,Average,1
+476,27,Male,Computer Science & IT,2.5,Facebook,Rarely,1200,Average,1
+477,25,Male,Computer Science & IT,3.0,Facebook,Sometimes,800,Good,2
+478,24,Male,Electrical Engineering,4.0,LinkedIn,Rarely,1900,Good,2
+479,25,Male,Computer Science & IT,1.0,LinkedIn,Sometimes,1200,Good,2
+480,26,Male,Computer Science & IT,3.2,Instagram,Never,1026,Average,1
+481,21,Male,Computer Science & IT,3.3,Instagram,Rarely,248,Poor,0
+482,20,Female,Computer Science & IT,2.4,X,Sometimes,376,Poor,0
+483,20,Male,Computer Science & IT,3.7,X,Rarely,195,Good,2
+484,26,Male,Computer Science & IT,2.6,Facebook,Never,1241,Average,1
+485,27,Female,Computer Science & IT,2.6,Instagram,Never,418,Good,2
+486,20,Female,Computer Science & IT,3.6,LinkedIn,Rarely,312,Poor,0
+487,30,Male,Computer Science & IT,1.8,Facebook,Rarely,338,Poor,0
+488,21,Male,Computer Science & IT,2.6,Facebook,Rarely,156,Good,2
+489,27,Female,Computer Science & IT,1.9,Facebook,Rarely,574,Good,2
+490,24,Female,Computer Science & IT,1.3,LinkedIn,Rarely,703,Average,1
+491,29,Female,Computer Science & IT,2.8,Facebook,Sometimes,1062,Good,2
+492,21,Male,Computer Science & IT,3.6,Instagram,Never,147,Average,1
+493,28,Female,Computer Science & IT,4.0,LinkedIn,Rarely,424,Good,2
+494,23,Male,Computer Science & IT,2.5,X,Never,637,Good,2
+495,29,Female,Computer Science & IT,3.9,X,Rarely,1202,Average,1
+496,27,Female,Electrical Engineering,2.2,Facebook,Sometimes,390,Average,1
+497,27,Male,Computer Science & IT,3.5,Instagram,Never,448,Good,2
+498,27,Male,Computer Science & IT,2.2,LinkedIn,Sometimes,1068,Poor,0
+499,24,Male,Computer Science & IT,1.3,Facebook,Rarely,662,Good,2
+500,22,Male,Computer Science & IT,2.2,Facebook,Sometimes,271,Poor,0
+501,28,Male,Electrical Engineering,3.1,X,Sometimes,1122,Good,2
+502,27,Female,Computer Science & IT,2.6,Facebook,Sometimes,1045,Average,1
+503,27,Male,Computer Science & IT,3.9,X,Sometimes,1344,Average,1
+504,27,Female,Computer Science & IT,2.4,X,Never,399,Poor,0
+505,20,Female,Computer Science & IT,2.2,X,Sometimes,431,Average,1
+506,30,Female,Computer Science & IT,3.6,X,Never,1396,Poor,0
+507,21,Female,Computer Science & IT,1.7,LinkedIn,Rarely,84,Average,1
+508,25,Female,Computer Science & IT,3.7,X,Never,234,Average,1
+509,21,Female,Computer Science & IT,2.3,Facebook,Rarely,504,Average,1
+510,25,Female,Computer Science & IT,2.5,Facebook,Never,920,Poor,0
+511,29,Male,Computer Science & IT,2.8,Instagram,Sometimes,293,Average,1
+512,24,Female,Computer Science & IT,1.3,LinkedIn,Rarely,84,Good,2
+513,22,Male,Electrical Engineering,1.7,Instagram,Rarely,416,Poor,0
+514,26,Female,Computer Science & IT,3.6,Instagram,Rarely,829,Poor,0
+515,25,Female,Electrical Engineering,2.0,X,Never,128,Poor,0
+516,29,Female,Computer Science & IT,2.4,LinkedIn,Rarely,1037,Good,2
+517,22,Male,Computer Science & IT,3.5,Facebook,Rarely,543,Poor,0
+518,24,Male,Computer Science & IT,2.4,Instagram,Never,1431,Poor,0
+519,22,Female,Computer Science & IT,1.6,LinkedIn,Never,286,Poor,0
+520,24,Male,Computer Science & IT,1.2,Facebook,Sometimes,674,Good,2
+521,21,Female,Computer Science & IT,2.1,Instagram,Never,892,Poor,0
+522,22,Female,Computer Science & IT,1.8,Instagram,Sometimes,66,Average,1
+523,29,Female,Electrical Engineering,3.3,Facebook,Rarely,133,Good,2
+524,21,Male,Computer Science & IT,1.9,Facebook,Never,467,Poor,0
+525,29,Female,Electrical Engineering,2.0,Instagram,Rarely,1089,Good,2
+526,29,Female,Computer Science & IT,3.1,X,Never,976,Good,2
+527,28,Female,Computer Science & IT,1.2,Facebook,Sometimes,438,Good,2
+528,20,Female,Computer Science & IT,1.1,LinkedIn,Rarely,1353,Poor,0
+529,26,Female,Electrical Engineering,3.9,Facebook,Rarely,533,Good,2
+530,24,Male,Computer Science & IT,1.0,LinkedIn,Rarely,196,Poor,0
+531,22,Female,Computer Science & IT,1.4,Facebook,Never,252,Average,1
+532,26,Female,Computer Science & IT,2.7,LinkedIn,Rarely,1297,Average,1
+533,20,Female,Computer Science & IT,2.4,Instagram,Sometimes,1116,Average,1
+534,22,Male,Electrical Engineering,3.7,X,Sometimes,1201,Average,1
+535,30,Male,Computer Science & IT,3.7,Facebook,Never,1020,Good,2
+536,30,Female,Electrical Engineering,3.8,LinkedIn,Never,231,Average,1
+537,20,Female,Computer Science & IT,3.9,X,Never,357,Poor,0
+538,21,Female,Computer Science & IT,3.1,X,Sometimes,48,Poor,0
+539,25,Female,Computer Science & IT,2.4,X,Rarely,1164,Good,2
+540,26,Male,Computer Science & IT,1.5,LinkedIn,Sometimes,569,Poor,0
+541,29,Female,Electrical Engineering,1.4,LinkedIn,Rarely,1275,Average,1
+542,27,Male,Computer Science & IT,3.4,Instagram,Never,136,Poor,0
+543,28,Male,Computer Science & IT,1.3,Instagram,Never,651,Average,1
+544,24,Male,Computer Science & IT,3.6,Instagram,Never,628,Good,2
+545,27,Male,Electrical Engineering,2.4,X,Rarely,81,Good,2
+546,23,Female,Computer Science & IT,2.3,LinkedIn,Rarely,776,Good,2
+547,21,Female,Computer Science & IT,1.1,Facebook,Sometimes,1426,Poor,0
+548,21,Female,Computer Science & IT,2.8,LinkedIn,Sometimes,1228,Good,2
+549,23,Female,Computer Science & IT,1.2,LinkedIn,Sometimes,967,Poor,0
+550,24,Male,Computer Science & IT,3.5,Instagram,Sometimes,626,Good,2
+551,24,Female,Computer Science & IT,2.5,Instagram,Never,886,Good,2
+552,30,Male,Computer Science & IT,3.5,X,Rarely,1426,Average,1
+553,30,Male,Electrical Engineering,3.0,LinkedIn,Rarely,246,Average,1
+554,26,Male,Computer Science & IT,3.3,Instagram,Rarely,56,Poor,0
+555,26,Female,Computer Science & IT,2.4,Instagram,Never,963,Average,1
+556,25,Female,Computer Science & IT,1.1,X,Rarely,416,Good,2
+557,28,Male,Computer Science & IT,2.7,Facebook,Sometimes,638,Average,1
+558,26,Female,Computer Science & IT,3.5,LinkedIn,Sometimes,1027,Poor,0
+559,25,Male,Computer Science & IT,1.8,Facebook,Never,1244,Poor,0
+560,26,Female,Computer Science & IT,3.7,Facebook,Rarely,288,Good,2
+561,27,Male,Computer Science & IT,2.5,Instagram,Rarely,1191,Poor,0
+562,28,Male,Computer Science & IT,2.0,Instagram,Sometimes,859,Good,2
+563,22,Male,Electrical Engineering,2.9,Instagram,Rarely,1102,Good,2
+564,28,Male,Electrical Engineering,3.5,X,Sometimes,340,Good,2
+565,29,Female,Computer Science & IT,1.2,LinkedIn,Rarely,246,Average,1
+566,27,Male,Computer Science & IT,2.6,Instagram,Rarely,90,Average,1
+567,27,Male,Computer Science & IT,2.7,Instagram,Sometimes,1160,Poor,0
+568,28,Male,Computer Science & IT,1.6,LinkedIn,Never,1167,Good,2
+569,20,Male,Computer Science & IT,2.7,Instagram,Sometimes,1408,Good,2
+570,24,Female,Computer Science & IT,3.2,LinkedIn,Rarely,1305,Good,2
+571,28,Male,Electrical Engineering,2.0,X,Sometimes,952,Average,1
+572,28,Male,Electrical Engineering,1.7,X,Never,618,Good,2
+573,20,Male,Electrical Engineering,3.5,LinkedIn,Never,781,Average,1
+574,21,Male,Computer Science & IT,3.0,Instagram,Never,843,Average,1
+575,27,Female,Computer Science & IT,2.2,Facebook,Sometimes,60,Average,1
+576,30,Male,Computer Science & IT,3.8,X,Rarely,463,Poor,0
+577,21,Female,Computer Science & IT,1.2,Instagram,Never,895,Good,2
+578,26,Male,Computer Science & IT,2.2,Facebook,Rarely,1428,Good,2
+579,21,Female,Computer Science & IT,3.3,LinkedIn,Sometimes,985,Good,2
+580,26,Male,Computer Science & IT,2.0,Facebook,Rarely,10,Average,1
+581,26,Male,Business & Management,10.0,Facebook,Sometimes,1000,Good,2
+582,32,Male,General Engineering,4.0,Facebook,Sometimes,10,Average,1
+583,26,Female,Computer Science & IT,4.0,Facebook,Sometimes,800,Good,2
+584,25,Male,Other,0.9,TikTok,Rarely,438,Good,2
+585,23,Male,Computer Science & IT,6.3,X,Rarely,0,Good,2
+586,21,Male,Biological Sciences,3.7,LinkedIn,Rarely,901,Average,1
+587,22,Male,Other,6.7,LinkedIn,Never,760,Poor,0
+588,18,Female,Computer Science & IT,5.2,Snapchat,Sometimes,390,Average,1
+589,26,Female,Computer Science & IT,1.1,Snapchat,Rarely,965,Good,2
+590,20,Male,Computer Science & IT,3.2,Instagram,Rarely,1386,Average,1
+591,20,Male,Business & Management,7.3,Facebook,Sometimes,1329,Average,1
+592,18,Female,Computer Science & IT,2.1,LinkedIn,Rarely,597,Good,2
+593,22,Male,Biological Sciences,3.0,Instagram,Rarely,411,Good,2
+594,20,Male,Mechanical Engineering,6.4,LinkedIn,Sometimes,1213,Poor,0
+595,26,Male,Computer Science & IT,3.3,X,Sometimes,530,Poor,0
+596,19,Male,Other,2.2,Instagram,Never,626,Average,1
+597,19,Male,Business & Management,6.4,Facebook,Sometimes,586,Average,1
+598,19,Male,Computer Science & IT,2.7,X,Rarely,53,Average,1
+599,19,Female,Computer Science & IT,0.0,X,Never,1102,Good,2
+600,18,Female,Other,7.8,TikTok,Often,569,Average,1
+601,25,Female,Computer Science & IT,0.9,Snapchat,Sometimes,568,Good,2
+602,18,Female,Biological Sciences,4.6,Snapchat,Rarely,507,Poor,0
+603,19,Female,Other,0.8,Snapchat,Rarely,768,Good,2
+604,20,Female,Computer Science & IT,0.0,LinkedIn,Never,697,Poor,0
+605,22,Female,Computer Science & IT,3.2,Instagram,Rarely,710,Good,2
+606,22,Male,Computer Science & IT,0.4,Instagram,Sometimes,440,Good,2
+607,20,Male,Electrical Engineering,2.6,LinkedIn,Sometimes,841,Good,2
+608,26,Female,Other,7.2,Facebook,Rarely,393,Poor,0
+609,22,Female,Biological Sciences,6.0,Instagram,Often,369,Poor,0
+610,18,Male,Mechanical Engineering,2.8,Snapchat,Rarely,857,Average,1
+611,25,Female,Computer Science & IT,2.8,Facebook,Rarely,541,Good,2
+612,21,Female,Business & Management,6.6,TikTok,Sometimes,664,Poor,0
+613,25,Male,Computer Science & IT,7.8,Facebook,Rarely,1307,Poor,0
+614,23,Male,Mechanical Engineering,5.4,Snapchat,Often,448,Average,1
+615,23,Male,Computer Science & IT,2.9,Facebook,Rarely,1115,Good,2
+616,21,Male,Computer Science & IT,4.1,Instagram,Never,1444,Average,1
+617,20,Male,Biological Sciences,0.7,X,Rarely,916,Good,2
+618,22,Male,Business & Management,0.7,X,Rarely,467,Average,1
+619,26,Male,Computer Science & IT,0.5,X,Rarely,0,Average,1
+620,20,Female,Mechanical Engineering,6.0,Snapchat,Never,1474,Average,1
+621,24,Female,Other,6.2,Facebook,Rarely,1035,Poor,0
+622,24,Male,Computer Science & IT,0.2,LinkedIn,Rarely,714,Good,2
+623,26,Female,Business & Management,7.4,Snapchat,Rarely,1419,Poor,0
+624,21,Male,Biological Sciences,5.5,Facebook,Rarely,649,Average,1
+625,22,Female,Computer Science & IT,0.6,LinkedIn,Sometimes,292,Good,2
+626,21,Female,Business & Management,4.4,LinkedIn,Rarely,855,Average,1
+627,18,Male,Other,1.6,X,Rarely,1269,Average,1
+628,23,Female,Other,4.2,TikTok,Sometimes,1417,Average,1
+629,24,Female,Business & Management,0.0,TikTok,Never,1492,Poor,0
+630,18,Male,Computer Science & IT,12.0,LinkedIn,Daily,1359,Poor,0
+631,23,Female,Business & Management,0.0,TikTok,Never,972,Poor,0
+632,26,Male,Electrical Engineering,3.1,TikTok,Rarely,199,Average,1
+633,26,Male,Other,2.5,Instagram,Sometimes,1443,Average,1
+634,26,Female,Business & Management,2.3,TikTok,Sometimes,0,Average,1
+635,22,Female,Business & Management,2.8,LinkedIn,Sometimes,604,Good,2
+636,22,Female,Electrical Engineering,0.0,X,Never,899,Good,2
+637,26,Male,Biological Sciences,3.4,X,Rarely,1174,Poor,0
+638,26,Male,Computer Science & IT,1.0,LinkedIn,Rarely,1135,Good,2
+639,25,Male,Mechanical Engineering,5.7,X,Sometimes,1295,Poor,0
+640,20,Male,Business & Management,4.4,Instagram,Rarely,500,Poor,0
+641,24,Female,Computer Science & IT,3.2,X,Rarely,651,Average,1
+642,19,Male,Computer Science & IT,0.3,X,Sometimes,160,Good,2
+643,18,Male,Electrical Engineering,0.1,Snapchat,Rarely,1309,Good,2
+644,26,Female,Computer Science & IT,2.2,Snapchat,Rarely,918,Good,2
+645,26,Female,Other,3.3,Snapchat,Never,1003,Good,2
+646,22,Male,Business & Management,4.8,Snapchat,Rarely,232,Average,1
+647,25,Male,Biological Sciences,6.2,TikTok,Rarely,1017,Poor,0
+648,23,Male,Computer Science & IT,7.8,Snapchat,Rarely,760,Average,1
+649,21,Male,Computer Science & IT,1.4,X,Rarely,82,Average,1
+650,20,Female,Business & Management,1.3,TikTok,Rarely,963,Good,2
+651,25,Male,Computer Science & IT,0.2,Snapchat,Often,622,Good,2
+652,22,Male,Electrical Engineering,6.7,TikTok,Rarely,1437,Average,1
+653,21,Male,Other,4.5,Instagram,Rarely,820,Poor,0
+654,22,Male,Biological Sciences,0.4,Facebook,Rarely,356,Good,2
+655,23,Female,Business & Management,7.5,Facebook,Often,428,Average,1
+656,25,Female,Electrical Engineering,0.7,Instagram,Often,696,Good,2
+657,21,Female,Other,1.9,Instagram,Rarely,1100,Good,2
+658,21,Female,Mechanical Engineering,2.4,Snapchat,Rarely,1265,Good,2
+659,23,Female,Electrical Engineering,2.7,Instagram,Rarely,918,Average,1
+660,18,Female,Mechanical Engineering,3.4,Facebook,Often,651,Poor,0
+661,23,Male,Mechanical Engineering,5.3,X,Rarely,1157,Good,2
+662,21,Female,Electrical Engineering,4.5,Instagram,Sometimes,113,Average,1
+663,24,Male,Computer Science & IT,3.2,X,Sometimes,1409,Average,1
+664,20,Female,Computer Science & IT,5.1,Instagram,Never,1498,Average,1
+665,25,Female,Electrical Engineering,1.0,Facebook,Rarely,1358,Good,2
+666,25,Male,Biological Sciences,0.7,Snapchat,Sometimes,1226,Good,2
+667,23,Female,Business & Management,2.6,X,Rarely,1002,Good,2
+668,23,Male,Computer Science & IT,0.8,Instagram,Sometimes,357,Average,1
+669,26,Male,Computer Science & IT,2.1,Instagram,Never,961,Average,1
+670,24,Female,Computer Science & IT,2.8,LinkedIn,Rarely,1377,Good,2
+671,24,Female,Electrical Engineering,4.5,Snapchat,Rarely,374,Average,1
+672,25,Female,Electrical Engineering,0.7,X,Rarely,1301,Average,1
+673,26,Female,Other,2.5,Instagram,Never,217,Good,2
+674,24,Male,Electrical Engineering,1.8,Instagram,Rarely,248,Good,2
+675,26,Male,Computer Science & IT,0.2,TikTok,Never,432,Good,2
+676,19,Female,Biological Sciences,1.7,TikTok,Rarely,786,Good,2
+677,26,Female,Computer Science & IT,5.3,Facebook,Rarely,405,Average,1
+678,24,Female,Business & Management,4.1,X,Sometimes,126,Average,1
+679,23,Female,Business & Management,0.0,Snapchat,Never,8690,Good,2
+680,20,Female,Biological Sciences,6.8,Instagram,Rarely,82,Average,1
+681,23,Female,Electrical Engineering,4.4,Snapchat,Sometimes,1028,Average,1
+682,21,Female,Computer Science & IT,2.7,Facebook,Often,1421,Average,1
+683,24,Female,Agriculture,0.3,Facebook,Sometimes,1057,Good,2
+684,21,Male,Arts & Humanities,1.0,Facebook,Sometimes,280,Average,1
+685,25,Male,Computer Science & IT,0.5,Facebook,Rarely,1200,Average,1
+686,25,Male,Business & Management,2.0,Facebook,Rarely,50,Good,2
+687,25,Male,Electrical Engineering,0.2,Facebook,Rarely,1500,Average,1
+688,20,Female,Arts & Humanities,10.0,Facebook,Daily,1200,Poor,0
+689,25,Female,Computer Science & IT,5.0,Facebook,Rarely,1000,Average,1
+690,26,Male,General Engineering,10.0,Facebook,Sometimes,2000,Average,1
+691,25,Male,Education,1.0,Facebook,Rarely,750,Average,1
+692,26,Male,Education,1.0,Facebook,Never,100,Average,1
+693,24,Male,Arts & Humanities,7.0,Facebook,Never,175,Average,1
+694,21,Male,Computer Science & IT,2.0,Facebook,Sometimes,1000,Average,1
+695,23,Male,Computer Science & IT,2.0,Facebook,Rarely,1000,Good,2
+696,22,Male,Computer Science & IT,0.5,Facebook,Sometimes,1700,Average,1
+697,22,Male,Computer Science & IT,0.5,Facebook,Rarely,450,Average,1
+698,27,Male,Computer Science & IT,0.3,Facebook,Sometimes,20,Average,1
+699,22,Male,Computer Science & IT,3.5,Facebook,Sometimes,250,Average,1
+700,19,Male,Computer Science & IT,0.5,Facebook,Sometimes,300,Good,2
+701,21,Male,Computer Science & IT,0.67,Facebook,Rarely,650,Average,1
+702,22,Male,Computer Science & IT,1.0,Facebook,Sometimes,1000,Average,1
+703,23,Male,Computer Science & IT,0.33,Facebook,Often,1500,Poor,0
+704,22,Male,Computer Science & IT,0.5,Facebook,Rarely,800,Average,1
+705,22,Male,Computer Science & IT,0.67,Facebook,Often,800,Average,1
+706,21,Male,Computer Science & IT,0.5,WhatsApp,Often,1000,Average,1
+707,22,Male,Computer Science & IT,0.5,Facebook,Often,800,Average,1
+708,22,Male,Computer Science & IT,1.5,Facebook,Sometimes,850,Average,1
+709,23,Male,Computer Science & IT,0.4,Facebook,Sometimes,800,Poor,0
+710,21,Female,Computer Science & IT,0.5,Facebook,Often,500,Average,1
+711,23,Male,Computer Science & IT,1.0,Facebook,Sometimes,450,Good,2
+712,23,Male,Computer Science & IT,1.0,Facebook,Rarely,650,Good,2
+713,21,Female,Computer Science & IT,3.0,Facebook,Often,300,Average,1
+714,23,Male,Computer Science & IT,2.0,Facebook,Daily,1000,Good,2
+715,24,Male,Computer Science & IT,0.5,Facebook,Rarely,500,Average,1
+716,21,Male,Computer Science & IT,1.0,Facebook,Rarely,150,Poor,0
+717,23,Female,Computer Science & IT,3.0,Facebook,Sometimes,600,Average,1
+718,22,Female,Computer Science & IT,2.0,YouTube,Rarely,1200,Average,1
+719,23,Male,Computer Science & IT,1.0,X,Often,100,Average,1
+720,23,Male,Computer Science & IT,3.0,Facebook,Sometimes,5000,Poor,0
+721,22,Male,Computer Science & IT,0.5,Facebook,Rarely,50,Poor,0
+722,22,Male,Computer Science & IT,1.0,Facebook,Sometimes,2500,Poor,0
+723,22,Male,Computer Science & IT,3.0,Facebook,Sometimes,800,Poor,0
+724,22,Male,Computer Science & IT,0.5,Facebook,Rarely,500,Average,1
+725,23,Male,Computer Science & IT,0.5,Facebook,Sometimes,700,Poor,0
+726,26,Male,Computer Science & IT,1.5,Facebook,Rarely,2000,Average,1
+727,20,Female,Computer Science & IT,0.5,Facebook,Rarely,120,Average,1
+728,23,Male,Computer Science & IT,10.0,Facebook,Rarely,1000,Poor,0
+729,21,Female,Computer Science & IT,1.0,Facebook,Sometimes,200,Good,2
+730,24,Male,Computer Science & IT,0.5,Facebook,Rarely,1000,Average,1
+731,24,Male,Computer Science & IT,1.0,Facebook,Never,700,Average,1
+732,24,Male,Computer Science & IT,2.5,Facebook,Sometimes,1400,Average,1
+733,23,Male,Computer Science & IT,2.0,Facebook,Sometimes,600,Average,1
+734,23,Male,Computer Science & IT,0.5,Facebook,Rarely,1400,Good,2
+735,25,Male,Computer Science & IT,7.0,Facebook,Often,1000,Average,1
+736,22,Female,Computer Science & IT,1.0,Facebook,Rarely,200,Average,1
+737,22,Male,Computer Science & IT,0.5,Facebook,Sometimes,1000,Average,1
+738,22,Male,Computer Science & IT,1.0,Facebook,Often,1200,Average,1
+739,23,Male,Computer Science & IT,0.5,Facebook,Rarely,1700,Average,1
+740,25,Female,Computer Science & IT,5.0,Facebook,Sometimes,55,Poor,0
+741,24,Male,Other,3.0,Facebook,Sometimes,1000,Average,1
+742,21,Male,Other,4.5,Facebook,Sometimes,300,Average,1
+743,24,Male,Computer Science & IT,1.0,Facebook,Rarely,275,Average,1
+744,23,Male,Computer Science & IT,1.0,Facebook,Rarely,40,Average,1
+745,24,Male,Computer Science & IT,1.0,Facebook,Sometimes,600,Average,1
+746,22,Male,Other,10.0,Facebook,Sometimes,2000,Good,2
+747,21,Female,Other,7.5,Instagram,Rarely,40,Average,1
+748,25,Female,Other,0.25,Facebook,Rarely,400,Average,1
+749,20,Female,Agriculture,2.0,Instagram,Rarely,60,Poor,0
+750,20,Male,Computer Science & IT,1.0,Facebook,Sometimes,1200,Poor,0
+751,19,Female,Business & Management,1.0,Facebook,Rarely,180,Good,2
+752,21,Male,Other,3.0,Facebook,Sometimes,960,Average,1
+753,21,Male,Computer Science & IT,0.5,Facebook,Sometimes,100,Average,1
+754,24,Male,Computer Science & IT,2.0,Facebook,Sometimes,3600,Average,1
+755,21,Male,Agriculture,0.2,Facebook,Often,330,Average,1
+756,21,Male,Other,0.0,Facebook,Rarely,4000,Average,1
+757,21,Male,Agriculture,8.0,Facebook,Daily,18,Good,2
+758,25,Male,Computer Science & IT,0.5,Facebook,Sometimes,4000,Average,1
+759,22,Female,Computer Science & IT,3.5,Facebook,Often,500,Good,2
+760,24,Male,Computer Science & IT,0.25,Facebook,Rarely,700,Average,1
+761,26,Male,Computer Science & IT,1.0,Facebook,Sometimes,1000,Average,1
+762,25,Male,Computer Science & IT,0.5,Facebook,Sometimes,3300,Average,1
+763,26,Male,Computer Science & IT,0.5,WhatsApp,Rarely,600,Good,2
+764,21,Female,Agriculture,3.0,Facebook,Sometimes,340,Good,2
+765,25,Female,Other,0.3,Facebook,Sometimes,142,Average,1
+766,27,Male,Computer Science & IT,0.7,X,Rarely,1000,Average,1
+767,20,Male,Other,1.0,Facebook,Sometimes,2000,Good,2
+768,21,Female,Agriculture,1.0,Facebook,Daily,950,Good,2
+769,19,Female,Business & Management,5.0,Facebook,Often,500,Average,1
+770,23,Male,Other,5.0,Facebook,Sometimes,50,Average,1
+771,26,Male,Computer Science & IT,1.5,Facebook,Rarely,1000,Average,1
+772,20,Male,Computer Science & IT,0.5,Facebook,Often,1000,Average,1
+773,21,Male,Computer Science & IT,0.67,Facebook,Often,600,Poor,0
+774,21,Male,Computer Science & IT,1.0,Facebook,Daily,400,Average,1
+775,21,Male,Computer Science & IT,9.0,Facebook,Sometimes,500,Average,1
+776,20,Female,Computer Science & IT,0.5,Instagram,Sometimes,981,Average,1
+777,20,Male,Computer Science & IT,1.0,Reddit,Rarely,500,Poor,0
+778,21,Female,Agriculture,3.0,Facebook,Rarely,100,Average,1
+779,21,Male,Computer Science & IT,1.0,Facebook,Rarely,800,Poor,0
+780,21,Male,Computer Science & IT,0.5,Facebook,Sometimes,1300,Poor,0
+781,22,Male,Computer Science & IT,0.5,Facebook,Often,3000,Average,1
+782,21,Male,Computer Science & IT,6.0,Facebook,Rarely,250,Poor,0
+783,22,Male,Other,4.5,Facebook,Sometimes,115,Poor,0
+784,23,Male,Computer Science & IT,0.5,Facebook,Sometimes,1200,Average,1
+785,28,Male,Computer Science & IT,0.0,Facebook,Rarely,1500,Poor,0
+786,20,Female,Agriculture,2.0,Facebook,Sometimes,500,Average,1
+787,22,Female,Computer Science & IT,7.0,Facebook,Sometimes,550,Average,1
+788,20,Male,Agriculture,1.3,Facebook,Daily,4400,Average,1
+789,22,Male,Other,1.0,Facebook,Often,400,Average,1
+790,25,Male,Computer Science & IT,2.0,Facebook,Sometimes,50,Average,1
+791,21,Male,Agriculture,2.0,Facebook,Sometimes,200,Average,1
+792,34,Male,Electrical Engineering,8.0,Facebook,Rarely,5,Average,1
+793,26,Male,Other,10.0,Facebook,Rarely,4700,Average,1
+794,19,Female,Computer Science & IT,1.0,Facebook,Sometimes,270,Average,1
+795,22,Female,Agriculture,4.0,Facebook,Daily,1500,Average,1
+796,23,Male,Other,13.0,Facebook,Rarely,400,Average,1
+797,23,Female,Agriculture,2.0,Facebook,Daily,6000,Average,1
+798,19,Male,Computer Science & IT,0.5,Facebook,Sometimes,430,Poor,0
+799,20,Male,Other,0.667,Facebook,Daily,1000,Average,1
+800,23,Male,Computer Science & IT,2.0,Instagram,Sometimes,4000,Good,2
+801,23,Male,Other,0.5,Facebook,Sometimes,2000,Average,1
+802,20,Female,Computer Science & IT,8.0,Facebook,Sometimes,250,Average,1
+803,21,Male,Computer Science & IT,2.0,Facebook,Sometimes,900,Average,1
+804,25,Male,Computer Science & IT,0.2,Facebook,Often,1500,Poor,0
+805,22,Male,Computer Science & IT,0.25,Instagram,Often,345,Average,1
+806,20,Male,Computer Science & IT,2.0,YouTube,Sometimes,1400,Average,1
+807,21,Male,Computer Science & IT,0.5,Facebook,Sometimes,2100,Average,1
+808,21,Male,Other,0.4,Facebook,Sometimes,1200,Average,1
+809,20,Male,Computer Science & IT,0.5,Facebook,Sometimes,600,Poor,0
+810,21,Male,Computer Science & IT,0.5,Facebook,Rarely,241,Poor,0
+811,20,Male,Computer Science & IT,1.2,Facebook,Often,1300,Poor,0
+812,22,Male,Computer Science & IT,0.5,Facebook,Rarely,1500,Average,1
+815,27,Male,Computer Science & IT,1.0,LinkedIn,Rarely,428,Poor,0
+816,23,Female,Computer Science & IT,3.0,X,Sometimes,490,Average,1
+817,21,Male,Computer Science & IT,3.0,Instagram,Rarely,7,Poor,0
+818,26,Female,Computer Science & IT,2.0,Facebook,Rarely,590,Good,2
+819,27,Male,Electrical Engineering,2.0,Instagram,Rarely,184,Poor,0
+820,24,Male,Computer Science & IT,1.0,LinkedIn,Rarely,449,Poor,0
+821,25,Male,Computer Science & IT,3.0,LinkedIn,Rarely,623,Good,2
+822,21,Female,Computer Science & IT,4.0,Facebook,Rarely,1094,Average,1
+823,29,Male,Computer Science & IT,4.0,Facebook,Rarely,1004,Average,1
+824,23,Male,Electrical Engineering,2.0,Facebook,Rarely,182,Average,1
+825,29,Female,Computer Science & IT,3.0,Facebook,Rarely,25,Average,1
+826,25,Male,Computer Science & IT,2.0,Instagram,Rarely,725,Good,2
+827,32,Female,Computer Science & IT,2.0,X,Rarely,764,Average,1
+828,20,Male,Computer Science & IT,2.0,Facebook,Rarely,298,Average,1
+829,27,Male,Computer Science & IT,3.0,Facebook,Rarely,1013,Poor,0
+830,29,Male,Computer Science & IT,4.0,Instagram,Rarely,8,Average,1
+831,22,Male,Computer Science & IT,3.0,Facebook,Sometimes,670,Good,2
+832,22,Female,Electrical Engineering,2.0,X,Rarely,165,Average,1
+833,21,Male,Computer Science & IT,1.0,LinkedIn,Rarely,504,Good,2
+834,26,Female,Computer Science & IT,3.0,Facebook,Rarely,24,Average,1
+835,29,Female,Electrical Engineering,2.0,Facebook,Rarely,1059,Poor,0
+836,21,Male,Electrical Engineering,2.0,Facebook,Rarely,627,Average,1
+837,32,Female,Computer Science & IT,2.0,Instagram,Rarely,567,Good,2
+838,23,Male,Computer Science & IT,3.0,Facebook,Sometimes,511,Average,1
+839,28,Female,Computer Science & IT,2.0,Facebook,Rarely,716,Average,1
+840,28,Male,Computer Science & IT,1.0,Facebook,Rarely,3323,Good,2
+841,21,Male,Computer Science & IT,2.0,Facebook,Rarely,1184,Average,1
+842,20,Male,Electrical Engineering,4.0,Facebook,Rarely,21,Average,1
+843,28,Male,Computer Science & IT,2.0,Facebook,Rarely,34,Poor,0
+844,29,Female,Computer Science & IT,4.0,LinkedIn,Rarely,772,Average,1
+845,30,Male,Computer Science & IT,1.0,Facebook,Rarely,2742,Good,2
+846,22,Male,Computer Science & IT,2.0,Facebook,Rarely,759,Average,1
+847,22,Male,Computer Science & IT,2.0,Facebook,Rarely,291,Good,2
+848,28,Male,Computer Science & IT,2.0,Facebook,Rarely,1161,Average,1
+849,29,Male,Computer Science & IT,2.0,Facebook,Rarely,823,Average,1
+850,27,Male,Computer Science & IT,3.0,Instagram,Rarely,7,Average,1
+851,27,Female,Computer Science & IT,3.0,Facebook,Sometimes,565,Average,1
+852,25,Male,Computer Science & IT,2.0,LinkedIn,Sometimes,2651,Good,2
+853,30,Male,Electrical Engineering,2.0,Facebook,Rarely,1261,Average,1
+854,24,Male,Computer Science & IT,4.0,LinkedIn,Rarely,512,Good,2
+855,28,Female,Computer Science & IT,4.0,LinkedIn,Rarely,829,Good,2
+856,24,Male,Computer Science & IT,3.0,Facebook,Rarely,1019,Average,1
+857,23,Male,Computer Science & IT,4.0,Instagram,Rarely,863,Average,1
+858,24,Male,Computer Science & IT,4.0,Facebook,Rarely,866,Average,1
+859,26,Male,Computer Science & IT,4.0,Instagram,Rarely,473,Good,2
+860,25,Female,Computer Science & IT,3.0,Facebook,Rarely,8,Poor,0
+861,28,Male,Computer Science & IT,4.0,Facebook,Rarely,877,Average,1
+862,25,Male,Electrical Engineering,2.0,Instagram,Rarely,211,Average,1
+863,24,Female,Computer Science & IT,3.0,Instagram,Sometimes,547,Average,1
+864,28,Female,Computer Science & IT,2.0,X,Rarely,167,Average,1
+865,28,Male,Computer Science & IT,1.0,Instagram,Sometimes,1088,Good,2
+866,21,Male,Electrical Engineering,1.0,Facebook,Rarely,288,Average,1
+867,22,Male,Computer Science & IT,2.0,Facebook,Rarely,666,Average,1
+868,30,Female,Computer Science & IT,2.0,Facebook,Rarely,695,Average,1
+869,25,Male,Computer Science & IT,2.0,LinkedIn,Rarely,614,Average,1
+870,24,Male,Computer Science & IT,3.0,Instagram,Sometimes,2178,Poor,0
+871,23,Female,Computer Science & IT,3.0,Facebook,Sometimes,2485,Good,2
+872,27,Male,Computer Science & IT,4.0,Facebook,Rarely,1084,Good,2
+873,21,Male,Computer Science & IT,2.0,Instagram,Rarely,10,Poor,0
+874,28,Male,Computer Science & IT,2.0,Facebook,Rarely,29,Poor,0
+875,20,Male,Electrical Engineering,1.0,Facebook,Rarely,3269,Average,1
+876,28,Male,Computer Science & IT,1.0,LinkedIn,Sometimes,1342,Good,2
+877,23,Male,Computer Science & IT,2.0,Facebook,Rarely,1080,Average,1
+878,32,Male,Computer Science & IT,2.0,Facebook,Rarely,783,Average,1
+879,28,Male,Computer Science & IT,3.0,Instagram,Rarely,620,Poor,0
+880,27,Male,Computer Science & IT,2.0,Facebook,Rarely,702,Average,1
+881,26,Male,Computer Science & IT,2.0,Facebook,Rarely,35,Average,1
+882,29,Male,Computer Science & IT,3.0,Facebook,Sometimes,2421,Good,2
+883,29,Female,Computer Science & IT,1.0,Facebook,Rarely,571,Poor,0
+884,20,Male,Electrical Engineering,2.0,X,Rarely,221,Average,1
+885,28,Male,Computer Science & IT,1.0,LinkedIn,Rarely,2411,Good,2
+886,28,Male,Computer Science & IT,1.0,Facebook,Rarely,2673,Good,2
+887,26,Male,Computer Science & IT,2.0,X,Rarely,534,Poor,0
+888,29,Female,Computer Science & IT,2.0,Facebook,Rarely,577,Poor,0
+889,22,Male,Electrical Engineering,2.0,X,Rarely,481,Poor,0
+890,20,Female,Computer Science & IT,3.0,LinkedIn,Sometimes,560,Good,2
+891,26,Male,Computer Science & IT,4.0,Facebook,Rarely,811,Average,1
+892,27,Female,Computer Science & IT,3.0,LinkedIn,Sometimes,403,Poor,0
+893,27,Male,Computer Science & IT,3.0,Facebook,Sometimes,2794,Good,2
+894,26,Female,Computer Science & IT,4.0,X,Rarely,827,Poor,0
+895,21,Male,Computer Science & IT,3.0,Facebook,Rarely,27,Average,1
+896,23,Male,Computer Science & IT,3.0,Facebook,Rarely,400,Average,1
+897,22,Female,Electrical Engineering,1.0,X,Never,50,Poor,0
+898,26,Male,Computer Science & IT,2.0,LinkedIn,Rarely,300,Good,2
+899,25,Female,Computer Science & IT,3.0,Instagram,Sometimes,200,Good,2
+900,24,Male,Computer Science & IT,4.0,Facebook,Never,100,Average,1
+901,23,Female,Electrical Engineering,2.0,X,Rarely,150,Average,1
+902,27,Male,Computer Science & IT,3.0,Facebook,Sometimes,500,Good,2
+903,25,Male,Computer Science & IT,1.0,LinkedIn,Rarely,250,Average,1
+904,24,Female,Computer Science & IT,2.0,Instagram,Sometimes,300,Good,2
+905,26,Male,Electrical Engineering,3.0,X,Never,100,Average,1
+906,25,Female,Computer Science & IT,4.0,Facebook,Rarely,600,Good,2
+907,23,Male,Computer Science & IT,2.0,LinkedIn,Sometimes,400,Good,2
+908,24,Female,Computer Science & IT,3.0,Instagram,Rarely,200,Average,1
+909,22,Male,Electrical Engineering,1.0,X,Never,50,Poor,0
+910,26,Female,Computer Science & IT,2.0,LinkedIn,Rarely,300,Good,2
+911,25,Male,Computer Science & IT,3.0,Instagram,Sometimes,200,Good,2
+912,24,Female,Computer Science & IT,4.0,Facebook,Never,100,Average,1
+913,23,Male,Electrical Engineering,2.0,X,Rarely,150,Average,1
+914,27,Female,Computer Science & IT,3.0,Facebook,Sometimes,500,Good,2
+916,24,Female,Computer Science & IT,2.0,Instagram,Sometimes,300,Good,2
+918,25,Female,Computer Science & IT,4.0,Facebook,Rarely,600,Good,2
+920,24,Female,Computer Science & IT,3.0,Instagram,Rarely,200,Average,1
+922,26,Female,Computer Science & IT,2.0,LinkedIn,Rarely,300,Good,2
+925,36,Male,Computer Science & IT,3.0,Facebook,Daily,222,Poor,0
+926,29,Male,Computer Science & IT,5.0,LinkedIn,Sometimes,878,Average,1
+927,35,Male,General Engineering,6.0,TikTok,Sometimes,864,Average,1
+928,34,Male,Business & Management,8.0,LinkedIn,Never,198,Poor,0
+929,34,Female,Other,1.0,Facebook,Often,129,Poor,0
+930,38,Female,Arts & Humanities,10.0,TikTok,Often,935,Poor,0
+931,31,Female,Business & Management,5.0,LinkedIn,Daily,262,Poor,0
+932,39,Male,Arts & Humanities,3.0,TikTok,Never,252,Poor,0
+933,22,Male,General Engineering,9.0,Instagram,Sometimes,813,Poor,0
+934,24,Male,General Engineering,8.0,Instagram,Often,278,Poor,0
+935,38,Female,Computer Science & IT,10.0,LinkedIn,Never,725,Poor,0
+936,26,Male,Other,4.0,TikTok,Often,276,Average,1
+937,28,Male,Arts & Humanities,6.0,Facebook,Often,708,Average,1
+938,26,Female,Business & Management,6.0,LinkedIn,Sometimes,581,Average,1
+939,37,Male,General Engineering,10.0,Instagram,Rarely,490,Poor,0
+940,23,Female,Computer Science & IT,1.0,Instagram,Daily,451,Poor,0
+941,33,Female,Computer Science & IT,3.0,LinkedIn,Daily,96,Poor,0
+942,37,Female,Arts & Humanities,2.0,TikTok,Sometimes,282,Good,2
+943,28,Male,General Engineering,3.0,Instagram,Often,354,Average,1
+944,21,Male,Other,5.0,TikTok,Never,575,Poor,0
+945,39,Male,General Engineering,4.0,Instagram,Often,192,Average,1
+946,34,Male,Arts & Humanities,4.0,Instagram,Sometimes,464,Average,1
+947,26,Male,Arts & Humanities,9.0,X,Daily,562,Poor,0
+948,31,Male,General Engineering,9.0,Instagram,Often,422,Poor,0
+949,27,Male,Arts & Humanities,1.0,Facebook,Daily,615,Poor,0
+950,34,Female,General Engineering,2.0,LinkedIn,Never,935,Good,2
+951,22,Male,Business & Management,7.0,LinkedIn,Daily,308,Poor,0
+952,33,Female,General Engineering,4.0,TikTok,Daily,705,Poor,0
+953,36,Male,General Engineering,3.0,Instagram,Rarely,520,Average,1
+954,23,Male,Arts & Humanities,3.0,Facebook,Rarely,61,Average,1
+955,37,Male,Arts & Humanities,4.0,TikTok,Rarely,379,Average,1
+956,27,Female,Computer Science & IT,9.0,X,Daily,785,Poor,0
+957,23,Female,Computer Science & IT,2.0,TikTok,Sometimes,833,Good,2
+958,21,Female,Business & Management,7.0,TikTok,Daily,407,Poor,0
+959,25,Female,Computer Science & IT,6.0,Instagram,Sometimes,457,Average,1
+960,29,Male,General Engineering,3.0,X,Sometimes,717,Average,1
+961,23,Female,Arts & Humanities,4.0,TikTok,Rarely,422,Average,1
+962,37,Male,Computer Science & IT,3.0,Facebook,Often,57,Average,1
+963,31,Male,Computer Science & IT,6.0,Facebook,Never,171,Poor,0
+964,21,Female,Business & Management,1.0,LinkedIn,Rarely,397,Good,2
+965,29,Female,Business & Management,1.0,X,Rarely,725,Good,2
+966,23,Female,General Engineering,6.0,X,Often,139,Average,1
+967,33,Female,Arts & Humanities,2.0,LinkedIn,Never,697,Good,2
+968,35,Female,Business & Management,1.0,TikTok,Daily,747,Poor,0
+969,34,Female,Computer Science & IT,4.0,X,Daily,365,Poor,0
+970,27,Female,Arts & Humanities,1.0,Facebook,Rarely,227,Good,2
+971,33,Female,Arts & Humanities,9.0,Facebook,Rarely,589,Poor,0
+972,27,Male,Computer Science & IT,1.0,Instagram,Rarely,781,Good,2
+973,35,Female,Business & Management,6.0,X,Sometimes,918,Average,1
+974,32,Female,Computer Science & IT,5.0,TikTok,Rarely,90,Average,1
+975,37,Male,Arts & Humanities,7.0,LinkedIn,Rarely,789,Poor,0
+976,34,Female,Other,4.0,LinkedIn,Daily,753,Poor,0
+977,32,Male,Other,2.0,TikTok,Daily,972,Poor,0
+978,28,Male,General Engineering,10.0,Instagram,Daily,551,Poor,0
+979,34,Female,Computer Science & IT,8.0,LinkedIn,Sometimes,194,Poor,0
+980,32,Male,Computer Science & IT,9.0,X,Daily,250,Poor,0
+981,20,Male,General Engineering,3.0,Instagram,Never,978,Poor,0
+982,26,Male,General Engineering,1.0,X,Often,773,Poor,0
+983,28,Male,General Engineering,3.0,Facebook,Rarely,510,Poor,0
+984,20,Female,Arts & Humanities,6.0,Instagram,Never,781,Poor,0
+985,31,Male,Computer Science & IT,4.0,LinkedIn,Daily,801,Poor,0
+986,27,Female,Arts & Humanities,8.0,Instagram,Often,974,Poor,0
+987,30,Male,General Engineering,3.0,Instagram,Often,958,Average,1
+988,38,Male,Computer Science & IT,10.0,Instagram,Often,607,Poor,0
+989,36,Male,Arts & Humanities,5.0,Instagram,Sometimes,596,Average,1
+990,27,Male,Arts & Humanities,8.0,X,Daily,302,Poor,0
+991,22,Female,General Engineering,2.0,Facebook,Often,439,Poor,0
+992,22,Female,Computer Science & IT,4.0,TikTok,Sometimes,643,Average,1
+993,20,Male,General Engineering,7.0,Instagram,Rarely,932,Poor,0
+994,24,Male,Computer Science & IT,2.0,LinkedIn,Rarely,305,Good,2
+995,29,Female,Other,2.0,Instagram,Sometimes,758,Good,2
+996,26,Male,Business & Management,10.0,LinkedIn,Sometimes,864,Poor,0
+997,28,Male,Business & Management,7.0,X,Daily,970,Poor,0
+998,26,Male,Business & Management,1.0,LinkedIn,Daily,499,Poor,0
+999,28,Female,General Engineering,4.0,TikTok,Rarely,59,Average,1
+1000,27,Female,Other,5.0,Facebook,Often,873,Average,1
+1001,31,Female,Computer Science & IT,8.0,LinkedIn,Rarely,847,Poor,0
+1002,21,Male,Arts & Humanities,3.0,LinkedIn,Often,291,Average,1
+1003,20,Male,Computer Science & IT,2.0,Facebook,Often,300,Poor,0
+1004,35,Female,Arts & Humanities,1.0,TikTok,Daily,926,Poor,0
+1005,24,Female,Computer Science & IT,5.0,Instagram,Rarely,54,Poor,0
+1006,25,Male,Computer Science & IT,2.0,Facebook,Rarely,1278,Average,1
+1007,24,Male,Computer Science & IT,4.0,Instagram,Rarely,674,Good,2
+1008,24,Male,Computer Science & IT,3.0,Facebook,Rarely,1700,Poor,0
+1009,26,Male,Computer Science & IT,3.0,Facebook,Rarely,3000,Average,1
+1010,25,Male,Computer Science & IT,2.0,Facebook,Rarely,1300,Average,1
+1011,25,Male,Computer Science & IT,4.0,Facebook,Often,2700,Average,1
+1012,26,Male,Computer Science & IT,1.0,Facebook,Never,600,Average,1
+1013,16,Male,Computer Science & IT,2.0,Facebook,Rarely,2000,Average,1
+1014,24,Male,Computer Science & IT,2.0,Facebook,Never,1600,Good,2
+1015,25,Male,Computer Science & IT,2.0,Instagram,Sometimes,1700,Poor,0
+1016,26,Male,Computer Science & IT,1.0,Facebook,Never,800,Good,2
+1018,24,Female,Computer Science & IT,3.0,Facebook,Rarely,500,Good,2
